@@ -1,2 +1,2 @@
-# earthquake-prediction
-Project for CS-C3240 Machine Learning
+# quakeml
+Machine Learning Project for CS-C3240
