@@ -1,0 +1,110 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1909-11-22T15:21:00.000Z,36.7,-121.4,,4.5,ml,,,,,ushis,ushis496,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1909-10-29T06:45:00.000Z,40.5,-124.2,,6.4,ml,,,,,ushis,ushis495,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1909-10-23T07:10:00.000Z,37,-89.5,,4.5,fa,,,,,ushis,ushis494,2018-06-04T20:43:44.000Z,"Missouri",earthquake,,,,,reviewed,ushis,bar
+1909-10-20T23:41:22.000Z,28.074,69.333,35,7,mw,,,,,iscgem,iscgem16958054,2020-07-09T22:01:09.965Z,"Pakistan",earthquake,,,,,automatic,iscgem,iscgem
+1909-09-27T09:45:00.000Z,39.8,-87.2,,5.1,fa,,,,,ushis,ushis492,2018-06-04T20:43:44.000Z,"Indiana",earthquake,,,,,reviewed,ushis,sc
+1909-09-08T16:49:48.000Z,52.5,-169,90,7.4,mb,,,,,ushis,ushis491,2018-06-04T20:43:44.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,gr
+1909-07-30T10:51:51.000Z,16.471,-99.427,20,7.5,mw,,,,,iscgem,iscgem16958045,2020-07-09T22:00:51.742Z,"offshore Guerrero, Mexico",earthquake,,,,,automatic,iscgem,iscgem
+1909-07-19T04:34:00.000Z,40.2,-90,,4.8,fa,,,,,ushis,ushis490,2018-06-04T20:43:44.000Z,"Illinois",earthquake,,,,,reviewed,ushis,sc
+1909-07-07T21:37:47.000Z,35.387,70.251,200,7.7,mw,,,,,iscgem,iscgem16958043,2020-07-09T22:00:22.204Z,"Hindu Kush region, Afghanistan",earthquake,,,,,automatic,iscgem,iscgem
+1909-06-23T07:24:00.000Z,39.4,-120.8,,5.7,ml,,,,,ushis,ushis489,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1909-05-26T14:42:00.000Z,41.6,-88.1,,5.1,fa,,,,,ushis,ushis488,2018-06-04T20:43:44.000Z,"Illinois",earthquake,,,,,reviewed,ushis,sc
+1909-05-16T04:15:00.000Z,49,-104,,5.5,lg,,,,,ushis,ushis486,2018-06-04T20:43:44.000Z,"Saskatchewan, Canada",earthquake,,,,,reviewed,ushis,epb
+1909-04-10T19:36:00.000Z,52,175,,7,ms,,,,,ushis,ushis484,2018-06-04T20:43:44.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1909-03-13T14:29:00.000Z,35.407,142.29,15,7.1,mw,,,,,iscgem,iscgem16958018,2020-07-09T22:00:02.860Z,"off the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1909-03-03T12:00:00.000Z,39.4,-120.9,,5,ml,,,,,ushis,ushis483,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1909-02-14T15:55:00.000Z,38.1,-121.7,,4.5,ml,,,,,ushis,ushis481,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1909-02-09T11:23:57.000Z,39.665,38.027,15,6.3,mw,,,,,iscgemsup,iscgemsup16958012,2020-07-10T13:32:27.459Z,"eastern Turkey",earthquake,,,,,automatic,iscgem,iscgem
+1909-01-23T02:48:28.000Z,34.248,50.41,15,7.3,mw,,,,,iscgemsup,iscgemsup16958011,2020-07-10T13:31:58.579Z,"central Iran",earthquake,,,,,automatic,iscgem,iscgem
+1909-01-11T23:44:00.000Z,49,-122.7,,6,ml,,,,,ushis,ushis480,2018-06-04T20:43:44.000Z,"Washington",earthquake,,,,,reviewed,ushis,nqt
+1908-12-28T04:20:26.000Z,38,15.349,15,7,mw,,,,,iscgem,iscgem16958009,2020-07-09T21:59:45.219Z,"Sicily, Italy",earthquake,,,,,automatic,iscgem,iscgem
+1908-12-12T12:54:57.000Z,26.948,96.773,15,7,mw,,,,,iscgem,iscgem16958007,2020-07-09T21:59:26.146Z,"Myanmar",earthquake,,,,,automatic,iscgem,iscgem
+1908-11-04T08:37:00.000Z,36,-117,,6.5,ms,,,,,ushis,ushis478,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cfr
+1908-09-21T06:31:00.000Z,19,-155,,6.8,ms,,,,,ushis,ushis477,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,abe
+1908-08-20T09:53:24.000Z,31.228,87.835,15,6.9,mw,,,,,iscgemsup,iscgemsup16957997,2020-07-10T13:31:38.085Z,"western Xizang",earthquake,,,,,automatic,iscgem,iscgem
+1908-08-18T10:59:00.000Z,40.8,-124,,5,ml,,,,,ushis,ushis476,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1908-05-15T08:31:36.000Z,59,-141,,7,ms,,,,,ushis,ushis474,2018-06-04T20:43:44.000Z,"Southeastern Alaska",earthquake,,,,,reviewed,ushis,abe
+1908-04-25T11:33:00.000Z,36.6,-121.8,,4.5,ml,,,,,ushis,ushis473,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1908-02-09T18:13:17.000Z,29.278,100.656,15,6.7,mw,,,,,iscgem,iscgem16957984,2020-07-09T21:59:07.210Z,"western Sichuan, China",earthquake,,,,,automatic,iscgem,iscgem
+1907-10-21T04:23:43.000Z,39.179,70.585,20,7.4,mw,,,,,iscgem,iscgem16957975,2020-07-09T21:58:39.762Z,"Tajikistan",earthquake,,,,,automatic,iscgem,iscgem
+1907-09-20T01:54:00.000Z,34.2,-117.1,,5.3,mw,,,,,ushis,ushis468,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,hht
+1907-09-02T16:01:00.000Z,52.59,169.73,,7.4,ms,,,,,ushis,ushis467,2018-06-04T20:43:44.000Z,"south of the Aleutian Islands",earthquake,,,,,reviewed,ushis,abe
+1907-08-22T22:24:00.000Z,57,-161,120,6.5,mb,,,,,ushis,ushis466,2018-06-04T20:43:44.000Z,"Bristol Bay",earthquake,,,,,reviewed,ushis,gr
+1907-05-04T05:51:01.000Z,-6.708,152.821,25,6.6,mw,,,,,iscgem,iscgem16957956,2015-05-13T18:52:41.000Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1907-04-15T06:08:25.000Z,16.513,-97.304,30,7.8,mw,,,,,iscgem,iscgem16957951,2020-07-09T21:58:19.741Z,"Oaxaca, Mexico",earthquake,,,,,automatic,iscgem,iscgem
+1907-02-11T13:22:00.000Z,37.7,-78.3,,4,fa,,,,,ushis,ushis465,2018-06-04T20:43:44.000Z,"Virginia",earthquake,,,,,reviewed,ushis,sc
+1907-01-04T05:19:11.000Z,1.873,94.209,15,7.8,mw,,,,,iscgem,iscgem16957943,2020-07-09T21:57:51.658Z,"off the west coast of northern Sumatra",earthquake,,,,,automatic,iscgem,iscgem
+1906-12-23T17:22:00.000Z,56.85,-153.9,,7.3,ms,,,,,ushis,ushis464,2018-06-04T20:43:44.000Z,"Kodiak Island region, Alaska",earthquake,,,,,reviewed,ushis,abe
+1906-12-22T18:21:11.000Z,44.284,85.572,15,7.8,mw,,,,,iscgem,iscgem16957935,2020-07-09T21:57:06.469Z,"northern Xinjiang, China",earthquake,,,,,automatic,iscgem,iscgem
+1906-10-24T14:43:18.000Z,36.79,67.021,35,7,mw,,,,,iscgemsup,iscgemsup16957929,2020-07-10T13:31:08.999Z,"central Afghanistan",earthquake,,,,,automatic,iscgem,iscgem
+1906-09-28T15:24:41.000Z,-4.144,-77.273,100,6.8,mw,,,,,iscgemsup,iscgemsup16957922,2020-07-10T13:30:40.684Z,"northern Peru",earthquake,,,,,automatic,iscgem,iscgem
+1906-09-14T16:04:43.000Z,-6.249,147.281,35,8,mw,,,,,iscgemsup,iscgemsup16957920,2020-07-10T13:30:19.204Z,"eastern New Guinea region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1906-08-25T13:47:26.000Z,7.415,40.813,15,6.5,mw,,,,,iscgemsup,iscgemsup16957915,2020-07-10T13:29:51.429Z,"Ethiopia",earthquake,,,,,automatic,iscgem,iscgem
+1906-08-17T00:40:04.000Z,-32.4,-71.4,35,8.2,mw,,,,,iscgemsup,iscgemsup16957911,2020-07-10T13:29:30.676Z,"Valparaiso, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1906-08-17T00:11:10.000Z,51.853,178.18,110,8.3,mw,,,,,iscgem,iscgem16957912,2019-05-02T23:45:17.938Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1906-05-26T14:42:00.000Z,47.1,-88.64,,4.2,fa,,,,,ushis,ushis457,2018-06-04T20:43:44.000Z,"Michigan",earthquake,,,,,reviewed,ushis,sc
+1906-04-23T09:10:00.000Z,41,-124,,6.4,ms,,,,,ushis,ushis452,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,ell
+1906-04-19T00:30:00.000Z,32.9,-115.5,,6.28,mw,,,,,ushis,ushis451,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,hht
+1906-04-18T13:12:27.700Z,37.75,-122.55,11.7,7.9,mw,,,,,official,official19060418131226300_12,2020-09-10T01:04:25.237Z,"The 1906 San Francisco Earthquake",earthquake,10,7,,,reviewed,official,official
+1906-03-03T20:25:00.000Z,33,-117,,4.5,ml,,,,,ushis,ushis449,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,cdmg
+1906-03-02T06:15:10.000Z,41.736,80.031,20,6.7,mw,,,,,iscgemsup,iscgemsup16957887,2020-07-10T13:29:11.418Z,"southern Xinjiang, China",earthquake,,,,,automatic,iscgem,iscgem
+1906-01-31T15:36:10.000Z,0.955,-79.369,20,8.8,mw,,,,,official,official19060131153610_30,2020-07-10T14:28:07.187Z,"1906 Ecuador-Colombia Earthquake",earthquake,,,,,reviewed,iscgem,official
+1906-01-21T13:49:33.000Z,34.167,138.101,300,7.4,mw,,,,,iscgem,iscgem16957883,2020-07-09T21:56:49.891Z,"near the south coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1906-01-08T00:15:00.000Z,39.3,-96.6,,4.9,fa,,,,,ushis,ushis447,2018-06-04T20:43:44.000Z,"Kansas",earthquake,,,,,reviewed,ushis,bar
+1905-12-10T12:36:00.000Z,53.88,-161.66,,6.9,ms,,,,,ushis,ushis444,2018-06-04T20:43:44.000Z,"south of Alaska",earthquake,,,,,reviewed,ushis,abe
+1905-12-04T12:20:07.000Z,37.216,38.83,15,5.6,mw,,,,,iscgem,iscgem16957879,2020-07-09T21:56:38.520Z,"eastern Turkey",earthquake,,,,,automatic,iscgem,iscgem
+1905-12-04T07:05:30.000Z,38.153,38.645,10,6.8,mw,,,,,iscgemsup,iscgemsup603952288,2020-07-10T13:34:53.841Z,"eastern Turkey",earthquake,,,,,automatic,iscgem,iscgem
+1905-11-08T22:06:10.000Z,39.114,23.974,15,7.4,mw,,,,,iscgemsup,iscgemsup16957878,2020-07-10T13:28:38.981Z,"Aegean Sea",earthquake,,,,,automatic,iscgem,iscgem
+1905-10-21T11:01:27.000Z,43.096,41.664,15,6.4,mw,,,,,iscgemsup,iscgemsup16957875,2020-07-10T13:28:15.594Z,"Georgia (Sak'art'velo)",earthquake,,,,,automatic,iscgem,iscgem
+1905-09-15T06:02:00.000Z,52.06,-171.45,,7.4,ms,,,,,ushis,ushis441,2018-06-04T20:43:44.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1905-09-08T01:43:02.000Z,38.636,15.784,15,7.2,mw,,,,,iscgem,iscgem16957871,2020-07-09T21:56:20.965Z,"Sicily, Italy",earthquake,,,,,automatic,iscgem,iscgem
+1905-08-22T05:08:00.000Z,37.2,-89.3,,4.8,fa,,,,,ushis,ushis439,2018-06-04T20:43:44.000Z,"Illinois",earthquake,,,,,reviewed,ushis,sc
+1905-07-27T00:20:00.000Z,47.24,-88.45,,4.5,fa,,,,,ushis,ushis438,2018-06-04T20:43:44.000Z,"Michigan",earthquake,,,,,reviewed,ushis,sc
+1905-07-23T02:46:22.000Z,49.369,96.61,15,8.3,mw,,,,,iscgem,iscgem16957865,2020-07-09T21:55:33.432Z,"Bolnay, Mongolia",earthquake,,,,,automatic,iscgem,iscgem
+1905-07-15T10:10:00.000Z,44.3,-69.8,,4.4,fa,,,,,ushis,ushis436,2018-06-04T20:43:44.000Z,"Maine",earthquake,,,,,reviewed,ushis,sc
+1905-07-09T09:40:39.000Z,49.709,98.483,15,7.95,mw,,,,,official,official19050709094039000_15,2020-07-09T21:54:52.819Z,"Tsetserleg, Mongolia",earthquake,,,,,reviewed,iscgem,official
+1905-04-04T00:49:59.000Z,32.636,76.788,20,7.9,mw,,,,,iscgem,iscgem16957848,2020-07-09T21:54:30.065Z,"Himachal Pradesh, India",earthquake,,,,,automatic,iscgem,iscgem
+1905-03-22T03:38:00.000Z,51.28,174.83,,7,ms,,,,,ushis,ushis434,2018-06-04T20:43:44.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1905-02-14T08:46:00.000Z,50.73,-178.55,,7.3,ms,,,,,ushis,ushis433,2018-06-04T20:43:44.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1905-01-06T14:30:00.000Z,35.5,-118.7,,5,ml,,,,,ushis,ushis432,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1904-08-27T21:56:00.000Z,64.66,-148.08,,7.3,ms,,,,,ushis,ushis431,2018-06-04T20:43:44.000Z,"Central Alaska",earthquake,,,,,reviewed,ushis,abe
+1904-07-30T10:26:00.000Z,38.5,-122,,4.5,ml,,,,,ushis,ushis430,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1904-06-25T21:00:37.000Z,52.864,160.445,30,7.7,mw,,,,,iscgem,iscgem16957819,2020-07-09T21:54:07.019Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1904-06-25T14:45:39.000Z,51.565,161.417,15,7.5,mw,,,,,iscgemsup,iscgemsup16957820,2020-07-10T13:27:49.144Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1904-04-16T09:20:00.000Z,40.5,-122.4,,4.5,ml,,,,,ushis,ushis428,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1904-03-21T06:04:00.000Z,45,-67.2,,5.1,fa,,,,,ushis,ushis426,2018-06-04T20:43:44.000Z,"Maine",earthquake,,,,,reviewed,ushis,sc
+1904-03-17T04:20:00.000Z,48.5,-122.8,,5.3,ml,,,,,ushis,ushis425,2018-06-04T20:43:44.000Z,"San Juan Islands region, Washington",earthquake,,,,,reviewed,ushis,nqt
+1903-11-04T19:14:00.000Z,36.5,-89.8,,5.1,fa,,,,,ushis,ushis423,2018-06-04T20:43:44.000Z,"Missouri",earthquake,,,,,reviewed,ushis,sc
+1903-11-04T18:18:00.000Z,36.5,-89.5,,4.6,fa,,,,,ushis,ushis422,2018-06-04T20:43:44.000Z,"Tennessee",earthquake,,,,,reviewed,ushis,sc
+1903-08-03T06:49:00.000Z,37.3,-121.8,,5.8,ml,,,,,ushis,ushis421,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1903-07-24T20:26:00.000Z,39.5,-122,,4.5,ml,,,,,ushis,ushis419,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1903-06-11T13:12:00.000Z,37.4,-121.9,,5.8,ml,,,,,ushis,ushis418,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1903-06-02T13:17:00.000Z,61.56,-158.54,,6.9,ms,,,,,ushis,ushis416,2018-06-04T20:43:44.000Z,"Southern Alaska",earthquake,,,,,reviewed,ushis,abe
+1903-02-09T00:21:00.000Z,37.8,-89.3,,4.9,fa,,,,,ushis,ushis414,2018-06-04T20:43:44.000Z,"Illinois",earthquake,,,,,reviewed,ushis,sc
+1903-02-05T18:26:00.000Z,52,175,,6.8,ms,,,,,ushis,ushis413,2018-06-04T20:43:44.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1903-01-24T01:15:00.000Z,32.099,-81.1,,4.1,fa,,,,,ushis,ushis412,2018-06-04T20:43:44.000Z,"Georgia, USA",earthquake,,,,,reviewed,ushis,sc
+1903-01-17T16:05:00.000Z,50.85,-175.16,,7,ms,,,,,ushis,ushis411,2018-06-04T20:43:44.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1903-01-14T01:47:00.000Z,15,-98,0,7.7,mw,,,,,iscgem,iscgem16957788,2020-07-09T21:53:39.536Z,"off the coast of Oaxaca, Mexico",earthquake,,,,,automatic,iscgem,iscgem
+1902-09-23T20:18:00.000Z,16,-93,0,7.8,mw,,,,,iscgem,iscgem16957778,2020-07-09T21:53:09.284Z,"Chiapas, Mexico",earthquake,,,,,automatic,iscgem,iscgem
+1902-09-22T01:46:00.000Z,18,146,0,7.5,mw,,,,,iscgem,iscgem16957777,2015-05-13T18:52:41.000Z,"Alamagan region, Northern Mariana Islands",earthquake,,,,,automatic,iscgem,iscgem
+1902-08-22T03:00:00.000Z,40,77,0,7.7,mw,,,,,iscgem,iscgem16957769,2020-07-09T21:52:33.149Z,"Kyrgyzstan-Xinjiang border region",earthquake,,,,,automatic,iscgem,iscgem
+1902-07-31T09:20:00.000Z,34.7,-120.3,,5.4,ml,,,,,ushis,ushis406,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1902-07-28T18:00:00.000Z,42,-97.6,,4.4,fa,,,,,ushis,ushis405,2018-06-04T20:43:44.000Z,"Nebraska",earthquake,,,,,reviewed,ushis,sc
+1902-07-28T06:57:00.000Z,34.8,-120.4,,5.4,ml,,,,,ushis,ushis404,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1902-06-11T02:45:00.000Z,33.7,-117.1,,4.5,ml,,,,,ushis,ushis403,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,cdmg
+1902-05-19T18:31:00.000Z,38.3,-121.9,,5.4,ml,,,,,ushis,ushis402,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1902-04-19T02:23:00.000Z,14,-91,0,7.5,mw,,,,,iscgem,iscgem16957763,2020-07-09T21:52:06.446Z,"Guatemala",earthquake,,,,,automatic,iscgem,iscgem
+1902-01-24T10:48:00.000Z,38.6,-90.3,,4.5,fa,,,,,ushis,ushis401,2018-06-04T20:43:44.000Z,"Missouri",earthquake,,,,,reviewed,ushis,sc
+1902-01-01T05:20:30.000Z,52.38,-167.45,,7,ms,,,,,ushis,ushis400,2018-06-04T20:43:44.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1901-12-31T09:02:30.000Z,51.45,-171.02,,7.1,ms,,,,,ushis,ushis399,2018-06-04T20:43:44.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1901-12-30T22:34:00.000Z,52,-160,,7,ms,,,,,ushis,ushis397,2018-06-04T20:43:44.000Z,"south of Alaska",earthquake,,,,,reviewed,ushis,abe
+1901-08-09T18:33:00.000Z,40,144,0,7.5,mw,,,,,iscgem,iscgem16957736,2020-07-09T21:51:20.368Z,"off the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1901-08-09T13:01:00.000Z,-22,170,0,7.9,mw,,,,,iscgem,iscgem16957737,2020-07-09T21:51:40.428Z,"southeast of the Loyalty Islands",earthquake,,,,,automatic,iscgem,iscgem
+1901-07-26T22:20:00.000Z,40.8,-115.7,,5,fa,,,,,ushis,ushis395,2018-06-04T20:43:44.000Z,"Nevada",earthquake,,,,,reviewed,ushis,sjg
+1901-05-17T06:00:00.000Z,38.75,-83,,4.2,fa,,,,,ushis,ushis394,2018-06-04T20:43:44.000Z,"Ohio",earthquake,,,,,reviewed,ushis,sc
+1901-03-03T07:45:00.000Z,36,-120.5,,6.4,ms,,,,,ushis,ushis393,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,ell
+1900-10-29T09:11:00.000Z,11,-66,0,7.7,mw,,,,,iscgem,iscgem16957719,2020-07-09T21:50:47.628Z,"offshore Miranda, Venezuela",earthquake,,,,,automatic,iscgem,iscgem
+1900-10-09T12:25:00.000Z,57.09,-153.48,,7.86,mw,,,,,ushis,ushis391,2019-05-02T20:46:08.555Z,"Kodiak Island region, Alaska",earthquake,,,,,reviewed,ushis,pt
+1900-07-29T06:59:00.000Z,-10,165,0,7.6,mw,,,,,iscgem,iscgem16957713,2020-07-09T21:50:21.653Z,"Santa Cruz Islands",earthquake,,,,,automatic,iscgem,iscgem
+1900-04-30T22:41:14.000Z,36.9,-121.6,,4.5,ml,,,,,ushis,ushis389,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg

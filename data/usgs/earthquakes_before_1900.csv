@@ -1,0 +1,280 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1899-12-25T12:25:00.000Z,33.8,-117,,6.75,mw,,,,,ushis,ushis386,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,hk
+1899-09-23T12:50:00.000Z,59,-143,,7,ms,,,,,ushis,ushis378,2018-06-04T20:43:44.000Z,"Gulf of Alaska",earthquake,,,,,reviewed,ushis,abe
+1899-09-23T11:04:00.000Z,60,-143,,6.9,ms,,,,,ushis,ushis377,2018-06-04T20:43:44.000Z,"Southern Alaska",earthquake,,,,,reviewed,ushis,abe
+1899-09-17T12:50:00.000Z,59,-136,,6.9,ms,,,,,ushis,ushis375,2018-06-04T20:43:44.000Z,"Southeastern Alaska",earthquake,,,,,reviewed,ushis,abe
+1899-09-10T21:41:00.000Z,60,-140,,8.16,mw,,,,,ushis,ushis369,2018-06-04T20:43:44.000Z,"Southeastern Alaska",earthquake,,,,,reviewed,ushis,pt
+1899-09-10T17:04:00.000Z,60,-140,,7.4,ms,,,,,ushis,ushis364,2018-06-04T20:43:44.000Z,"Southeastern Alaska",earthquake,,,,,reviewed,ushis,abe
+1899-09-04T04:40:00.000Z,60,-142,,6.9,ms,,,,,ushis,ushis362,2018-06-04T20:43:44.000Z,"Southeastern Alaska",earthquake,,,,,reviewed,ushis,abe
+1899-09-04T00:22:00.000Z,60,-142,,8.16,mw,,,,,ushis,ushis360,2018-06-04T20:43:44.000Z,"Southeastern Alaska",earthquake,,,,,reviewed,ushis,pt
+1899-07-22T20:32:00.000Z,34.3,-117.5,,6.36,mw,,,,,ushis,ushis359,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,hht
+1899-07-22T00:46:00.000Z,34.2,-117.4,,5.5,ml,,,,,ushis,ushis358,2018-06-04T20:43:44.000Z,"Greater Los Angeles area, California",earthquake,,,,,reviewed,ushis,cdmg
+1899-07-14T13:32:00.000Z,60,-150,,7.2,ms,,,,,ushis,ushis357,2018-06-04T20:43:44.000Z,"Kenai Peninsula, Alaska",earthquake,,,,,reviewed,ushis,abe
+1899-07-06T20:10:00.000Z,37.2,-121.5,,5.8,ml,,,,,ushis,ushis355,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1899-06-02T07:19:00.000Z,37.7,-122.5,,5.4,ml,,,,,ushis,ushis354,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1899-04-30T22:41:00.000Z,36.9,-121.7,,5.6,ml,,,,,ushis,ushis353,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1899-04-30T02:05:00.000Z,38.5,-87.4,,4.9,fa,,,,,ushis,ushis352,2018-06-04T20:43:44.000Z,"Indiana",earthquake,,,,,reviewed,ushis,sc
+1899-04-16T13:40:00.000Z,41,-126,,7,ms,,,,,ushis,ushis351,2018-06-04T20:43:44.000Z,"off the coast of Northern California",earthquake,,,,,reviewed,ushis,ell
+1899-02-13T09:30:00.000Z,37,-81,,4.5,fa,,,,,ushis,ushis349,2018-06-04T20:43:44.000Z,"Virginia-North Carolina border region",earthquake,,,,,reviewed,ushis,sc
+1898-11-25T20:00:00.000Z,37,-81,,4.5,fa,,,,,ushis,ushis348,2018-06-04T20:43:44.000Z,"Virginia-North Carolina border region",earthquake,,,,,reviewed,ushis,nut
+1898-10-11T16:37:00.000Z,50.71,179.5,,6.9,ms,,,,,ushis,ushis347,2018-06-04T20:43:44.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1898-06-29T18:36:00.000Z,52,172,,7.6,ms,,,,,ushis,ushis344,2018-06-04T20:43:44.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,abe
+1898-06-14T15:26:00.000Z,36.5,-88.5,,4.5,fa,,,,,ushis,ushis343,2018-06-04T20:43:44.000Z,"Tennessee",earthquake,,,,,reviewed,ushis,sg
+1898-04-15T07:07:00.000Z,39.2,-123.8,,6.9,ms,,,,,ushis,ushis342,2018-06-04T20:43:44.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,abe
+1898-03-31T07:43:00.000Z,38.2,-122.4,,6.2,ml,,,,,ushis,ushis341,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1898-02-05T20:00:00.000Z,37,-81,,4.4,fa,,,,,ushis,ushis340,2018-06-04T20:43:44.000Z,"Virginia-North Carolina border region",earthquake,,,,,reviewed,ushis,sc
+1897-12-02T07:10:00.000Z,38,-96.5,,4.5,fa,,,,,ushis,ushis339,2018-06-04T20:43:44.000Z,"Kansas",earthquake,,,,,reviewed,ushis,bar
+1897-11-04T09:29:00.000Z,45.3,-112.6,,6.4,fa,,,,,ushis,ushis337,2018-06-04T20:43:44.000Z,"western Montana",earthquake,,,,,reviewed,ushis,mmt
+1897-06-20T20:14:00.000Z,37,-121.5,,6.2,ml,,,,,ushis,ushis336,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1897-06-05T12:22:00.000Z,46.6,-112,,5,fa,,,,,ushis,ushis335,2018-06-04T20:43:44.000Z,"western Montana",earthquake,,,,,reviewed,ushis,mmt
+1897-05-31T18:58:00.000Z,37.3,-80.7,,5.6,fa,,,,,ushis,ushis334,2018-06-04T20:43:44.000Z,"West Virginia",earthquake,,,,,reviewed,ushis,sc
+1897-05-28T03:16:00.000Z,44.5,-73.5,,4.7,fa,,,,,ushis,ushis333,2018-06-04T20:43:44.000Z,"New York",earthquake,,,,,reviewed,ushis,sc
+1897-05-03T17:18:00.000Z,37.1,-80.7,,4.3,fa,,,,,ushis,ushis331,2018-06-04T20:43:44.000Z,"West Virginia",earthquake,,,,,reviewed,ushis,sc
+1896-09-13T15:30:00.000Z,19.25,-155,,6,fa,,,,,ushis,ushis329,2018-06-04T20:43:44.000Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,wy
+1896-08-17T11:30:00.000Z,36.7,-118.3,,5.9,ml,,,,,ushis,ushis328,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1896-04-02T11:17:00.000Z,45.2,-123.2,,5,uk,,,,,ushis,ushis327,2018-06-04T20:43:44.000Z,"Oregon",earthquake,,,,,reviewed,ushis,epb
+1895-10-31T11:08:00.000Z,37,-89.4,,5.9,fa,,,,,ushis,ushis323,2018-06-04T20:43:44.000Z,"Missouri",earthquake,,,,,reviewed,ushis,sc
+1895-09-06T19:20:00.000Z,46,-112.5,,5,fa,,,,,ushis,ushis322,2018-06-04T20:43:44.000Z,"western Montana",earthquake,,,,,reviewed,ushis,mmt
+1895-09-01T11:09:00.000Z,40.75,-74.5,,4.1,fa,,,,,ushis,ushis321,2018-06-04T20:43:44.000Z,"New Jersey",earthquake,,,,,reviewed,ushis,sc
+1894-10-23T23:03:00.000Z,32.8,-116.8,,5.7,ml,,,,,ushis,ushis318,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,cdmg
+1894-09-30T17:36:00.000Z,40.3,-123.7,,5.8,ml,,,,,ushis,ushis317,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1894-07-30T05:12:00.000Z,34.3,-117.6,,5.9,ml,,,,,ushis,ushis316,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,cdmg
+1893-08-09T09:15:00.000Z,38.4,-122.6,,5.1,ml,,,,,ushis,ushis313,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1893-06-30T13:30:00.000Z,38,-122.4,,4.6,ml,,,,,ushis,ushis312,2018-06-04T20:43:44.000Z,"San Pablo Bay, California",earthquake,,,,,reviewed,ushis,cdmg
+1893-05-19T00:35:00.000Z,34.1,-119.4,,5.5,ml,,,,,ushis,ushis311,2018-06-04T20:43:44.000Z,"Santa Barbara Channel, California",earthquake,,,,,reviewed,ushis,cdmg
+1893-04-04T19:40:00.000Z,34.3,-118.6,,5.4,ml,,,,,ushis,ushis309,2018-06-04T20:43:44.000Z,"Greater Los Angeles area, California",earthquake,,,,,reviewed,ushis,cdmg
+1893-03-07T01:03:00.000Z,45.9,-119.3,,4.7,ml,,,,,ushis,ushis308,2018-06-04T20:43:44.000Z,"Oregon",earthquake,,,,,reviewed,ushis,nqt
+1892-11-13T12:45:00.000Z,36.8,-121.5,,5.6,ml,,,,,ushis,ushis307,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1892-06-14T13:25:00.000Z,34.2,-117.5,,4.9,ml,,,,,ushis,ushis306,2018-06-04T20:43:44.000Z,"Greater Los Angeles area, California",earthquake,,,,,reviewed,ushis,cdmg
+1892-05-28T11:15:00.000Z,33.2,-116.2,,6.3,ml,,,,,ushis,ushis305,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,cdmg
+1892-04-30T00:09:00.000Z,38.4,-121.8,,5.5,ml,,,,,ushis,ushis304,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1892-04-21T17:43:00.000Z,38.5,-121.9,,6.2,ml,,,,,ushis,ushis303,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1892-04-19T10:50:00.000Z,38.4,-122,,6.4,ml,,,,,ushis,ushis302,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1892-02-24T07:20:00.000Z,32.55,-115.63,,7.76,mw,,,,,ushis,ushis300,2018-06-04T20:43:44.000Z,"Baja California, Mexico",earthquake,,,,,reviewed,ushis,hht
+1892-02-04T04:30:00.000Z,45.5,-122.7,,5,uk,,,,,ushis,ushis299,2018-06-04T20:43:44.000Z,"Portland urban area, Oregon",earthquake,,,,,reviewed,ushis,epb
+1891-10-12T06:28:00.000Z,38.3,-122.4,,5.5,ml,,,,,ushis,ushis296,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1891-09-27T04:55:00.000Z,38.25,-88.5,,5.2,fa,,,,,ushis,ushis295,2018-06-04T20:43:44.000Z,"Illinois",earthquake,,,,,reviewed,ushis,sc
+1891-07-27T02:28:00.000Z,37.9,-87.5,,4.1,fa,,,,,ushis,ushis294,2018-06-04T20:43:44.000Z,"western Kentucky",earthquake,,,,,reviewed,ushis,sc
+1891-03-08T03:40:00.000Z,47.5,-121.5,,5,ml,,,,,ushis,ushis292,2018-06-04T20:43:44.000Z,"Washington",earthquake,,,,,reviewed,ushis,jlq
+1891-01-02T20:00:00.000Z,37.3,-121.8,,5.5,ml,,,,,ushis,ushis290,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1890-07-26T09:40:00.000Z,40.5,-124.2,,6,ml,,,,,ushis,ushis288,2018-06-04T20:43:44.000Z,"Northern California",earthquake,,,,,reviewed,ushis,cdmg
+1890-04-24T11:36:00.000Z,36.9,-121.6,,6,ml,,,,,ushis,ushis286,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1890-02-09T12:06:00.000Z,33.4,-116.3,,6.75,mw,,,,,ushis,ushis285,2018-06-04T20:43:44.000Z,"Southern California",earthquake,,,,,reviewed,ushis,hk
+1889-09-30T05:20:00.000Z,37.2,-118.7,,5.6,ml,,,,,ushis,ushis284,2018-06-04T20:43:44.000Z,"Central California",earthquake,,,,,reviewed,ushis,cdmg
+1889-08-28T02:15:00.000Z,34.1,-117.9,,5.2,ml,,,,,ushis,ushis283,2018-06-04T20:43:44.000Z,"Greater Los Angeles area, California",earthquake,,,,,reviewed,ushis,cdmg
+1889-07-31T12:47:00.000Z,37.8,-122.2,,5.2,ml,,,,,ushis,ushis282,2018-06-04T20:43:44.000Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1889-06-20T06:00:00.000Z,40.5,-120.7,,6.2,mw,,,,,cdmg,cdmg18890620060000000,2021-02-17T00:26:13.326Z,"North of Susanville, California",earthquake,,,,,reviewed,cdmg,cdmg
+1889-05-19T11:10:00.000Z,38.1,-121.8,,6,mw,,,,,cdmg,cdmg18890519111000000,2021-02-16T00:40:04.329Z,"North of Antioch, California",earthquake,,,,,reviewed,cdmg,cdmg
+1889-04-15T03:28:00.000Z,36.95,-121.4,,5.5,ml,,,,,cdmg,cdmg18890415032800000,2021-02-15T23:58:58.171Z,"East of Gilroy, California",earthquake,,,,,reviewed,cdmg,cdmg
+1889-02-07T05:20:00.000Z,34.1,-116.7,,5.6,ml,,,,,cdmg,cdmg18890207052000000,2021-02-15T22:46:11.449Z,"San Bernardino Mountains northeast of Beaumont, California",earthquake,,,,,reviewed,cdmg,cdmg
+1888-11-18T22:28:00.000Z,37.9,-122.3,,4.3,ml,,,,,ushis,ushis275,2021-02-11T09:01:49.602Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1888-09-17T11:51:00.000Z,37.1,-121.8,,4.5,ml,,,,,ushis,ushis274,2021-02-11T08:50:13.623Z,"Santa Cruz Mountains, California",earthquake,,,,,reviewed,ushis,cdmg
+1888-08-20T18:05:00.000Z,19.25,-155,,5.9,mint,,,,,ushis,ushis273,2021-02-11T08:34:03.659Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1888-04-29T04:48:00.000Z,39.7,-120.7,,6.2,mw,,,,,cdmg,cdmg18880429044800000,2021-02-11T07:47:37.205Z,"South of Cromberg, California",earthquake,,,,,reviewed,cdmg,cdmg
+1888-04-14T03:30:00.000Z,41.5,-120.5,,4.6,ml,,,,,ushis,ushis270,2021-02-11T07:12:23.612Z,"Near Alturas, California",earthquake,,,,,reviewed,ushis,cdmg
+1888-02-29T22:50:00.000Z,38.3,-122.7,,4.2,ml,,,,,ushis,ushis269,2021-02-11T07:00:26.262Z,"North of Petaluma, California",earthquake,,,,,reviewed,ushis,cdmg
+1888-02-18T10:50:00.000Z,39.2,-123.6,,5.5,ml,,,,,cdmg,cdmg18880218105000000,2021-01-31T09:29:21.687Z,"Southeast of Mendocino, California",earthquake,,,,,reviewed,cdmg,cdmg
+1888-01-30T06:35:00.000Z,39,-120,,4.5,mfa,,,,,ushis,ushis267,2021-01-23T01:59:46.583Z,"California-Nevada border region",earthquake,,,,,reviewed,ushis,sjg
+1887-12-05T15:30:00.000Z,37.047,-112.522,,4.8,mw,,,,,uu,uu18871205153000000,2021-01-23T00:21:53.035Z,"Near Kanab, Utah",earthquake,,,,,reviewed,uu,uu
+1887-12-03T18:55:00.000Z,39.3,-123.6,,4.9,ml,,,,,ushis,ushis265,2021-01-15T00:01:54.274Z,"East of Mendocino, California",earthquake,,,,,reviewed,ushis,cdmg
+1887-08-02T18:36:00.000Z,37.7,-88.64,,4.6,mfa,,,,,official,official18870802183600000,2021-01-14T23:33:58.690Z,"Southern Illinois",earthquake,,,,,reviewed,official,official
+1887-06-03T10:48:00.000Z,39.2,-119.8,,6.5,mw,,,,,cdmg,cdmg18870603104800000,2021-01-31T09:25:44.216Z,"Near Carson City, Nevada",earthquake,,,,,reviewed,cdmg,cdmg
+1887-05-03T22:13:00.000Z,31.07,-109.12,,7.6,mw,,,,,official,official18870503221300000,2021-02-18T18:58:52.319Z,"The 1887 Sonora Earthquake, Mexico",earthquake,,,,,reviewed,official,official
+1887-02-06T22:15:00.000Z,38.7,-87.5,,4.6,mfa,,,,,ushis,ushis260,2021-01-13T23:32:56.173Z,"Near Vincennes, Indiana",earthquake,,,,,reviewed,ushis,sc
+1887-01-24T10:00:00.000Z,19.4,-155.5,,6.5,mint,,,,,official,official18870124100000000,2021-01-12T00:45:17.000Z,"Ka`u District, Hawaii",earthquake,,,,,reviewed,official,official
+1887-01-24T09:50:00.000Z,19.4,-155.5,10,6.1,mint,,,,,official,official18870124095000000,2021-01-12T02:11:38.083Z,"Ka`u District, Hawaii",earthquake,0,0,,,reviewed,official,official
+1886-11-05T17:20:00.000Z,32.9,-80,,4.4,mfa,,,,,ushis,ushis258,2020-11-25T00:21:46.275Z,"Near Charleston, South Carolina",earthquake,,,,,reviewed,ushis,se
+1886-10-22T19:45:00.000Z,32.9,-80,,4.7,mfa,,,,,ushis,ushis257,2020-11-25T00:05:27.619Z,"Near Charleston, South Carolina",earthquake,,,,,reviewed,ushis,se
+1886-10-22T10:20:00.000Z,32.9,-80,,4.4,mfa,,,,,ushis,ushis256,2020-11-24T23:47:42.701Z,"Near Charleston, South Carolina",earthquake,,,,,reviewed,ushis,se
+1886-09-01T02:51:00.000Z,32.9,-80,,7.03,mw,,,,,ushis,ushis251,2020-11-03T02:04:54.127Z,"The 1886 Charleston Earthquake, South Carolina",earthquake,,,,,reviewed,ushis,bol
+1885-04-12T04:05:00.000Z,36.2,-120.8,,6.5,mw,,,,,cdmg,cdmg18850412040500000,2021-01-31T09:21:24.521Z,"West of Coalinga, California",earthquake,,,,,reviewed,cdmg,cdmg
+1885-04-02T15:25:00.000Z,36.6,-121.1,,5.9,ml,,,,,cdmg,cdmg18850402152500000,2021-01-31T09:19:25.669Z,"North of San Benito, California",earthquake,,,,,reviewed,cdmg,cdmg
+1885-03-31T07:56:00.000Z,36.7,-121.2,,5.7,ml,,,,,cdmg,cdmg18850331075600000,2021-01-31T09:16:29.909Z,"Southeast of Hollister, California",earthquake,,,,,reviewed,cdmg,cdmg
+1885-01-31T05:45:00.000Z,40.4,-120.6,,6.1,mw,,,,,cdmg,cdmg18850131054500000,2021-01-31T09:13:28.219Z,"Near Susanville, California",earthquake,,,,,reviewed,cdmg,cdmg
+1885-01-13T17:00:00.000Z,20,-155.17,35,6.1,mint,,,,,official,official18850113170000000,2020-10-26T23:53:41.405Z,"Near Laupahoehoe, Hawaii",earthquake,,,,,reviewed,official,official
+1884-11-10T08:50:00.000Z,42.3,-111.4,5,5.6,mw,,,,,uu,uu18841110085000000,2020-10-13T23:30:12.332Z,"Bear Lake Valley, Idaho",earthquake,,0,,,reviewed,uu,uu
+1884-09-19T19:14:00.000Z,40.7,-84.1,,4.8,mfa,,,,,ushis,ushis241,2020-10-13T22:57:50.796Z,"Near Lima, Ohio",earthquake,,,,,reviewed,ushis,sc
+1884-08-10T19:05:00.000Z,40.51,-73.83,,5.25,mfa,,,,,official,official18840810190500000,2020-10-13T22:31:42.956Z,"New York City area, New York",earthquake,,,,,reviewed,official,official
+1884-03-26T00:40:00.000Z,37,-122.25,,5.9,ml,,,,,cdmg,cdmg18840326004000000,2021-01-31T09:07:57.727Z,"West of Santa Cruz, California",earthquake,,,,,reviewed,cdmg,cdmg
+1884-01-28T07:30:00.000Z,41.1,-123.6,,6.1,mw,,,,,cdmg,cdmg18840128073000000,2021-01-31T09:05:35.090Z,"Northeast of Eureka, California",earthquake,,,,,reviewed,cdmg,cdmg
+1883-09-05T12:30:00.000Z,34.9,-119.3,,5.8,ml,,,,,cdmg,cdmg18830905123000000,2021-01-31T09:02:56.609Z,"Northeast of Santa Barbara, California",earthquake,,,,,reviewed,cdmg,cdmg
+1883-04-12T08:36:00.000Z,37,-89.2,,4,mint,,,,,ushis,ushis233,2020-10-04T06:09:55.734Z,"Near Cairo, Illinois",earthquake,,,,,reviewed,ushis,se
+1883-03-30T15:45:00.000Z,36.8,-121.5,,6,ml,,,,,cdmg,cdmg18830330154500000,2021-01-31T09:00:32.549Z,"Near Hollister, California",earthquake,,,,,reviewed,cdmg,cdmg
+1883-01-11T07:12:00.000Z,36.8,-89.5,,4.2,mfa,,,,,official,official18830111071200000,2020-10-01T23:48:06.000Z,"New Madrid Seismic Zone, Missouri",earthquake,,,,,reviewed,official,official
+1882-11-08T11:45:00.000Z,40.5,-105.5,,4.5,mfa,,,,,official,official18821108114500000,2020-09-29T00:50:22.844Z,"Front Range, west of Fort Collins, Colorado",earthquake,,,,,reviewed,official,official
+1882-11-08T01:30:00.000Z,40.5,-105.5,,6.6,mw,,,,,ushis,ushis230,2020-09-29T00:03:17.125Z,"Front Range, west of Fort Collins, Colorado",earthquake,,,,,reviewed,ushis,official
+1882-10-22T22:15:00.000Z,34.45,-96.63,,5.7,mfa,,,,,official,official18821022221500000,2020-09-26T19:30:55.295Z,"Southeastern Oklahoma",earthquake,,,,,reviewed,official,official
+1882-09-27T10:20:00.000Z,39,-89.5,,4.4,mfa,,,,,ushis,ushis228,2020-09-26T18:30:05.367Z,"Southern Illinois",earthquake,,,,,reviewed,ushis,sc
+1882-06-27T13:22:00.000Z,37.1,-121.9,,5.8,ml,,,,,cdmg,cdmg18820627132200000,2021-01-31T08:55:34.125Z,"Santa Cruz Mountains, California",earthquake,,,,,reviewed,cdmg,cdmg
+1882-05-01T06:50:00.000Z,47.4,-122.6,,5.75,ml,,,,,uw,uw18820501065000000,2020-09-25T22:30:37.948Z,"Puget Sound region, Washington",earthquake,,,,,reviewed,uw,uw
+1882-03-06T21:45:00.000Z,36.5,-121.1,,5.9,ml,,,,,cdmg,cdmg18820306214500000,2021-01-31T08:48:58.671Z,"Southeast of Hollister, California",earthquake,,,,,reviewed,cdmg,cdmg
+1881-09-30T15:23:00.000Z,20.067,-155.7,40,6.4,mfa,,,,,official,official18810930152300000,2020-09-24T23:48:48.000Z,"Northwest of Mauna Kea, Hawaii",earthquake,,,,,reviewed,official,official
+1881-05-27T00:00:00.000Z,41.3,-89.1,,4.6,mfa,,,,,ushis,ushis222,2020-09-23T08:48:56.516Z,"Near La Salle, Illinois",earthquake,,,,,reviewed,ushis,sc
+1881-04-22T01:00:00.000Z,21,-157,,5.5,mfa,,,,,ushis,ushis221,2020-09-23T08:12:57.110Z,"Maui region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1881-04-10T10:00:00.000Z,37.3,-121.3,,6.3,mw,,,,,cdmg,cdmg18810410100000000,2021-01-31T08:46:06.422Z,"Southwest of Modesto, California",earthquake,,,,,reviewed,cdmg,cdmg
+1881-02-02T00:11:00.000Z,36.05,-120.55,,6,ml,,,,,cdmg,cdmg18810202001100000,2021-01-31T08:43:32.090Z,"Northwest of Parkfield, California",earthquake,,,,,reviewed,cdmg,cdmg
+1881-01-07T02:25:00.000Z,40,-122,,5.6,ml,,,,,cdmg,cdmg18810107022500000,2021-01-31T08:41:12.335Z,"Near Red Bluff, California",earthquake,,,,,reviewed,cdmg,cdmg
+1880-12-19T23:35:00.000Z,34,-117,,5.9,ml,,,,,cdmg,cdmg18801219233500000,2021-01-31T08:39:19.741Z,"Near San Bernardino, California",earthquake,,,,,reviewed,cdmg,cdmg
+1880-09-25T14:30:00.000Z,19.25,-155,,6,mfa,,,,,ushis,ushis210,2020-02-26T22:21:38.972Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1880-09-24T01:45:00.000Z,19.25,-155,,6.6,mfa,,,,,ushis,ushis209,2020-02-25T00:32:43.734Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1879-11-04T19:25:00.000Z,19.25,-155,,5.3,mint,,,,,ushis,ushis206,2020-02-22T00:19:29.838Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1879-05-16T08:00:00.000Z,19.25,-155,,5.3,mint,,,,,ushis,ushis204,2020-02-15T23:43:24.706Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1878-11-19T05:52:00.000Z,35.65,-90.25,,5,mfa,,,,,official,official18781119055200000,2020-01-31T23:36:20.000Z,"Southwest of Blytheville, Arkansas",earthquake,,,,,reviewed,official,official
+1878-05-09T04:25:00.000Z,40.4,-125.2,,7,mw,,,,,cdmg,cdmg18780509042500000,2021-01-31T08:31:27.605Z,"West of Cape Mendocino, California",earthquake,,,,,reviewed,cdmg,cdmg
+1878-03-12T10:00:00.000Z,36.8,-89.1,,4.2,mfa,,,,,ushis,ushis195,2020-01-17T23:17:15.383Z,"Near Columbus, Kentucky",earthquake,,,,,reviewed,ushis,sc
+1877-11-15T17:45:00.000Z,41.95,-97.63,,5.6,mfa,,,,,official,official18771115174500000,2019-12-20T23:06:40.109Z,"Near Norfolk, Nebraska",earthquake,,,,,reviewed,official,official
+1877-11-04T06:56:00.000Z,44.5,-74,,4.9,mfa,,,,,ushis,ushis192,2019-12-13T23:52:58.434Z,"Adirondack region, New York",earthquake,,,,,reviewed,ushis,sc
+1877-10-12T21:53:00.000Z,45.75,-122.5,,5.5,ml,,,,,ushis,ushis191,2019-12-13T23:16:06.626Z,"Clark County, Washington",earthquake,,,,,reviewed,ushis,official
+1877-07-10T07:10:00.000Z,39,-120,,5.5,ml,,,,,cdmg,cdmg18770710071000000,2021-01-31T08:26:07.189Z,"Lake Tahoe area, California-Nevada border",earthquake,,,,,reviewed,cdmg,cdmg
+1877-05-31T14:50:00.000Z,19.25,-155,,6.25,mfa,,,,,ushis,ushis189,2019-12-12T23:47:25.089Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,wy
+1876-09-25T06:15:00.000Z,38.5,-87.8,,4.8,mfa,,,,,ushis,ushis188,2019-12-12T21:52:43.829Z,"Wabash River Valley, Illinois",earthquake,,,,,reviewed,ushis,sc
+1876-09-25T06:00:00.000Z,38.5,-87.8,,4.5,mfa,,,,,ushis,ushis187,2019-12-11T00:23:08.431Z,"Wabash River Valley, Illinois",earthquake,,,,,reviewed,ushis,sc
+1876-05-29T18:55:00.000Z,38.4,-122.9,,4.2,ml,,,,,ushis,ushis186,2019-12-10T23:40:27.649Z,"West of Sebastopol, California",earthquake,,,,,reviewed,ushis,cdmg
+1876-03-22T00:00:00.000Z,39.527,-111.582,,4.8,mfa,,,,,uu,uu18760322000000000,2020-10-14T00:47:27.072Z,"Near Moroni, Utah",earthquake,,,,,reviewed,uu,uu
+1875-12-23T04:45:00.000Z,37.8,-78,,4.8,mfa,,,,,ushis,ushis184,2019-12-10T21:27:23.764Z,"Central Virginia",earthquake,,,,,reviewed,ushis,sc
+1875-11-23T22:00:00.000Z,19.25,-155,,5.9,mfa,,,,,ushis,ushis183,2019-11-24T23:13:01.029Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1875-11-02T02:55:00.000Z,33.8,-82.5,,4.3,mfa,,,,,ushis,ushis182,2019-11-24T22:29:36.957Z,"Northwest of Augusta, Georgia",earthquake,,,,,reviewed,ushis,sc
+1875-09-30T12:30:00.000Z,40.7,-124,,5.9,ml,,,,,cdmg,cdmg18750930123000000,2021-01-31T08:15:34.893Z,"Near Eureka, California",earthquake,,,,,reviewed,cdmg,cdmg
+1875-06-18T12:43:00.000Z,40.2,-84,,4.7,mfa,,,,,ushis,ushis180,2019-11-24T21:19:42.006Z,"Western Ohio",earthquake,,,,,reviewed,ushis,sc
+1875-01-24T12:00:00.000Z,40.2,-120.5,,6.2,mw,,,,,cdmg,cdmg18750124120000000,2021-01-31T08:11:28.674Z,"South of Janesville, Californiaa",earthquake,,,,,reviewed,cdmg,cdmg
+1874-12-29T16:30:00.000Z,19.25,-155,,5.9,mfa,,,,,ushis,ushis177,2019-11-20T22:47:24.538Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1874-05-15T22:15:00.000Z,19.25,-155,,5.9,mint,,,,,ushis,ushis176,2019-11-20T22:46:16.393Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1873-11-23T05:00:00.000Z,42,-124.2,,6.9,mw,,,,,cdmg,cdmg18731123050000000,2021-01-31T08:08:47.974Z,"North of Crescent City, California",earthquake,,,,,reviewed,cdmg,cdmg
+1873-11-05T17:00:00.000Z,40,-118,,5.5,mfa,,,,,ushis,ushis174,2019-11-20T20:14:37.363Z,"East of Lovelock, Nevada",earthquake,,,,,reviewed,ushis,sjg
+1872-12-15T05:40:00.000Z,47.9,-120.3,,6.8,mfa,,,,,ushis,ushis18721215054000000,2019-11-19T23:24:39.550Z,"The 1872 Lake Chelan Earthquake, Washington",earthquake,,,,,reviewed,ushis,official
+1872-12-10T23:30:00.000Z,46.4,-112.5,,5,mfa,,,,,ushis,ushis172,2019-11-18T23:04:29.982Z,"East of Deer Lodge, Montana",earthquake,,,,,reviewed,ushis,mmt
+1872-11-12T00:00:00.000Z,39,-117,,6,ml,,,,,ushis,ushis171,2019-11-15T23:24:53.395Z,"South of Austin, Nevada",earthquake,,,,,reviewed,ushis,ell
+1872-05-03T01:00:00.000Z,33,-115,,5.8,ml,,,,,cdmg,cdmg18720503010000000,2021-01-31T08:00:01.811Z,"Imperial Valley area, California",earthquake,,,,,reviewed,cdmg,cdmg
+1872-04-23T04:30:00.000Z,19.25,-155.5,,6.1,mint,,,,,official,official18720423043000000,2019-11-14T23:04:27.116Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,official,official
+1872-04-11T19:00:00.000Z,37.5,-118.5,,6.8,mw,,,,,cdmg,cdmg18720411190000000,2021-01-31T07:56:23.230Z,"Near Round Valley, California",earthquake,,,,,reviewed,cdmg,cdmg
+1872-04-03T12:15:00.000Z,37,-118.2,,6.3,mw,,,,,cdmg,cdmg18720403121500000,2021-01-31T07:53:57.741Z,"Owens Valley, California",earthquake,,,,,reviewed,cdmg,cdmg
+1872-03-28T13:00:00.000Z,39.5,-120.4,,4.9,ml,,,,,ushis,ushis163,2019-11-13T21:19:10.407Z,"Near Sierraville, California",earthquake,,,,,reviewed,ushis,cdmg
+1872-03-26T14:06:00.000Z,36.9,-118.2,,6.8,mw,,,,,cdmg,cdmg18720326140600000,2021-01-31T07:50:21.370Z,"Owens Valley, California",earthquake,,,,,reviewed,cdmg,cdmg
+1872-03-26T10:30:00.000Z,36.7,-118.1,,7.4,mw,,,,,ushis,ushis161,2021-01-31T07:42:58.480Z,"The 1872 Owens Valley Earthquake, California",earthquake,,,,,reviewed,ushis,cdmg
+1872-03-23T21:41:00.000Z,40,-117.5,,5.5,mfa,,,,,ushis,ushis160,2019-11-08T22:07:07.120Z,"Northwest of Austin, Nevada",earthquake,,,,,reviewed,ushis,sjg
+1871-09-13T22:45:00.000Z,19.25,-155,,5.9,mfa,,,,,official,official18710913224500000,2019-11-07T23:52:09.792Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,official,official
+1871-07-05T21:06:00.000Z,36.4,-118,,5.5,ml,,,,,cdmg,cdmg18710705210600000,2021-01-31T07:01:35.535Z,"Owens Valley, California",earthquake,,,,,reviewed,cdmg,cdmg
+1871-03-02T21:05:00.000Z,40.4,-124.2,,6.3,mw,,,,,cdmg,cdmg18710302210500000,2021-01-31T06:58:50.795Z,"Northeast of Petrolia, California",earthquake,,,,,reviewed,cdmg,cdmg
+1871-02-20T08:45:00.000Z,21,-156.2,,6.8,mfa,,,,,official,official18710220084500000,2019-11-05T23:13:03.995Z,"Maui region, Hawaii",earthquake,,,,,reviewed,official,official
+1870-08-07T14:43:00.000Z,20.5,-157,,6.4,mfa,,,,,ushis,ushis154,2019-09-12T23:08:15.288Z,"Maui region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1870-04-02T19:48:00.000Z,37.9,-122.3,,5.8,ml,,,,,cdmg,cdmg18700402194800000,2021-01-30T19:36:34.718Z,"Near Berkeley, California",earthquake,,,,,reviewed,cdmg,cdmg
+1870-03-22T07:00:00.000Z,19,-155.5,,6.2,mint,,,,,ushis,ushis152,2019-09-11T23:55:40.315Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1870-02-17T20:12:00.000Z,37.1,-122,,5.9,ml,,,,,cdmg,cdmg18700217201200000,2021-01-30T19:34:45.310Z,"North of Santa Cruz, California",earthquake,,,,,reviewed,cdmg,cdmg
+1869-12-27T10:00:00.000Z,39.1,-119.8,,6.2,ml,,,,,cdmg,cdmg18691227100000000,2021-01-30T19:32:14.889Z,"Near Carson City, Nevada",earthquake,,,,,reviewed,cdmg,cdmg
+1869-12-27T01:55:00.000Z,39.4,-119.7,,6.4,ml,,,,,cdmg,cdmg18691227015500000,2021-01-30T19:29:32.215Z,"Northwest of Virginia City, Nevada",earthquake,,,,,reviewed,cdmg,cdmg
+1869-12-21T04:00:00.000Z,39.5,-120.6,,4.8,ml,,,,,ushis,ushis147,2019-09-06T23:41:48.715Z,"East of Downieville, California",earthquake,,,,,reviewed,ushis,cdmg
+1869-10-08T09:30:00.000Z,39.1,-123.1,,5.6,ml,,,,,cdmg,cdmg18691008093000000,2021-01-30T19:26:40.623Z,"Near Ukiah, California",earthquake,,,,,reviewed,cdmg,cdmg
+1869-08-15T14:30:00.000Z,19,-155.5,,5.3,mint,,,,,ushis,ushis145,2019-09-06T22:08:47.151Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1869-02-21T12:10:00.000Z,19,-155.5,,5.9,mint,,,,,official,official18690221121000000,2019-09-05T23:00:22.560Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,official,official
+1869-02-18T10:30:00.000Z,19,-155.5,,6,mint,,,,,official,official18690218103000000,2019-09-05T22:36:26.460Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,official,official
+1868-11-17T08:30:00.000Z,19,-155.5,,5.9,mint,,,,,ushis,ushis140,2019-09-05T00:14:15.205Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1868-10-21T15:53:00.000Z,37.7,-122.1,,6.8,ml,,,,,ushis,ushis139,2021-01-30T19:23:29.669Z,"The 1868 Hayward Fault Earthquake, California",earthquake,,,,,reviewed,ushis,cdmg
+1868-09-17T16:55:00.000Z,38.6,-119.7,,5.6,ml,,,,,cdmg,cdmg18680917165500000,2021-01-30T19:19:17.162Z,"Near Markleeville, California",earthquake,,,,,reviewed,cdmg,cdmg
+1868-07-24T09:10:00.000Z,19,-155.5,,5.9,mint,,,,,official,official18680724091000000,2019-09-05T22:10:45.051Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,official,official
+1868-05-30T05:10:00.000Z,39.3,-119.7,,6,ml,,,,,cdmg,cdmg18680530051000000,2019-08-30T23:59:23.230Z,"Near Virginia City, Nevada",earthquake,,,,,reviewed,cdmg,cdmg
+1868-05-24T10:30:00.000Z,19,-155.5,,6.2,mint,,,,,official,official18680524103000000,2019-09-05T22:08:50.522Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,official,official
+1868-04-04T10:57:00.000Z,20.5,-156.5,40,6.5,mfa,,,,,ushis,ushis132,2019-08-29T22:12:42.677Z,"Maui region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1868-04-03T02:30:00.000Z,19.2,-155.5,,7.9,mfa,,,,,official,official18680403023000000,2019-11-05T22:16:20.430Z,"The 1868 Great Ka`u Earthquake, Hawaii",earthquake,,,,,reviewed,official,official
+1868-03-28T23:58:00.000Z,19.1,-155.65,,7,mfa,,,,,official,official18680328235800000,2019-09-12T00:10:23.941Z,"Ka`u District, Hawaii",earthquake,,,,,reviewed,official,official
+1868-03-17T11:15:00.000Z,18.2,-65,,6.5,mh,,,,,eqh,eqh18680317111500000,2020-01-17T21:40:35.108Z,"Virgin Islands Region",earthquake,,,,,reviewed,eqh,eqh
+1867-12-18T08:00:00.000Z,44.7,-75.2,,4.3,mfa,,,,,ushis,ushis129,2019-08-14T23:05:40.309Z,"East of Ogdensburg, New York",earthquake,,,,,reviewed,ushis,sc
+1867-11-18T18:45:00.000Z,18.2,-65,,7.3,mw,,,,,eqh,eqh18671118184500000,2020-01-16T21:53:14.840Z,"The 1867 Virgin Islands Earthquake",earthquake,,,,,reviewed,eqh,rspr
+1867-04-24T20:22:00.000Z,38.98,-96.12,,5.2,mfa,,,,,official,official18670424202200000,2019-08-28T00:07:58.448Z,"Between Manhattan and Topeka, Kansas",earthquake,,,,,reviewed,official,official
+1866-07-15T06:30:00.000Z,37.7,-121.5,,6,ml,,,,,cdmg,cdmg18660715063000000,2021-01-30T19:12:56.628Z,"Southwest of Stockton, California",earthquake,,,,,reviewed,cdmg,cdmg
+1866-03-26T20:12:00.000Z,37,-121.7,,5.8,ml,,,,,cdmg,cdmg18660326201200000,2021-01-30T19:10:14.373Z,"Near Gilroy, California",earthquake,,,,,reviewed,cdmg,cdmg
+1865-10-08T20:46:00.000Z,37.2,-121.9,,6.5,mw,,,,,cdmg,cdmg18651008204600000,2021-01-30T19:08:01.393Z,"South of San Jose, California",earthquake,,,,,reviewed,cdmg,cdmg
+1865-10-01T17:15:00.000Z,40.8,-124.2,,5.5,ml,,,,,cdmg,cdmg18651001171500000,2021-01-30T19:05:31.678Z,"Near Eureka, California",earthquake,,,,,reviewed,cdmg,cdmg
+1865-08-17T15:00:00.000Z,35.54,-90.4,,4.7,mfa,,,,,official,official18650817150000000,2019-08-27T22:36:31.960Z,"Near Marked Tree, Arkansas",earthquake,,,,,reviewed,official,official
+1865-05-24T11:21:00.000Z,37.1,-121.8,,5.9,ml,,,,,cdmg,cdmg18650524112100000,2021-01-30T19:02:56.645Z,"South of San Jose, California",earthquake,,,,,reviewed,cdmg,cdmg
+1865-03-08T14:30:00.000Z,38.4,-122.6,,4.7,ml,,,,,ushis,ushis119,2019-08-10T00:03:50.801Z,"Near Santa Rosa, California",earthquake,,,,,reviewed,ushis,cdmg
+1864-08-18T13:18:00.000Z,39.3,-121,,4.5,ml,,,,,ushis,ushis118,2019-08-09T23:47:29.427Z,"Near Grass Valley, California",earthquake,,,,,reviewed,ushis,cdmg
+1864-07-22T06:40:00.000Z,37.6,-122,,4.7,ml,,,,,ushis,ushis117,2019-08-09T23:26:09.076Z,"Alameda County, California",earthquake,,,,,reviewed,ushis,cdmg
+1864-05-21T02:01:00.000Z,37.6,-121.9,,5.8,ml,,,,,cdmg,cdmg18640521020100000,2021-01-30T18:56:47.795Z,"Alameda County, California",earthquake,,,,,reviewed,cdmg,cdmg
+1864-03-05T16:49:00.000Z,37.5528,-121.855,,6.1,ml,,,,,cdmg,cdmg18640305164900000,2021-01-30T18:53:09.656Z,"Alameda County, California",earthquake,,,,,reviewed,cdmg,cdmg
+1864-02-26T13:47:00.000Z,37.2,-121.6,,6.1,ml,,,,,cdmg,cdmg18640226134700000,2021-01-30T18:49:06.985Z,"Santa Clara County, California",earthquake,,,,,reviewed,cdmg,cdmg
+1863-12-19T22:38:00.000Z,37.5,-122.2,,4.8,ml,,,,,ushis,ushis113,2019-08-09T20:24:36.182Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1862-05-27T20:00:00.000Z,32.7,-117.2,,5.9,ml,,,,,ushis,ushis112,2019-08-08T23:16:26.135Z,"San Diego County urban area, California",earthquake,,,,,reviewed,ushis,cdmg
+1861-12-05T22:20:00.000Z,21,-157,,5.9,mint,,,,,ushis,ushis111,2019-08-23T23:47:21.600Z,"Probably Moloka`i-Lana`i area, Hawaii",earthquake,,,,,reviewed,ushis,official
+1861-08-31T10:22:00.000Z,36.1,-81.1,,5,mfa,,,,,ushis,ushis110,2019-08-06T22:41:06.975Z,"Near Wilkesboro, North Carolina",earthquake,,,,,reviewed,ushis,sc
+1861-07-04T00:11:00.000Z,37.75,-121.8,,5.8,ml,,,,,cdmg,cdmg18610704001100000,2021-01-30T18:38:03.175Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,cdmg,cdmg
+1861-06-02T07:00:00.000Z,19.25,-155,,6.1,mint,,,,,ushis,ushis108,2019-08-23T23:45:05.674Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1860-11-13T00:00:00.000Z,40.8,-124.2,,5.5,ml,,,,,ushis,ushis107,2021-01-30T18:30:10.417Z,"Near Eureka, California",earthquake,,,,,reviewed,ushis,cdmg
+1860-07-19T02:30:00.000Z,19.25,-155,,6.1,mint,,,,,ushis,ushis106,2019-08-23T23:43:36.459Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1860-03-15T19:00:00.000Z,39.5,-119.5,,6.5,ml,,,,,cdmg,cdmg18600315190000000,2021-01-30T18:24:50.682Z,"East of Reno, Nevada",earthquake,,,,,reviewed,cdmg,cdmg
+1859-11-21T12:50:00.000Z,20,-156,,5.9,mfa,,,,,ushis,ushis104,2019-08-23T23:41:48.751Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1858-12-16T10:00:00.000Z,34.2,-117.4,,6,ml,,,,,cdmg,cdmg18581216100000000,2021-01-30T00:59:34.064Z,"Near San Bernardino, California",earthquake,,,,,reviewed,cdmg,cdmg
+1858-11-26T08:35:00.000Z,37.5,-121.9,,6.1,ml,,,,,ushis,ushis100,2019-08-06T22:17:59.347Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1858-09-21T00:00:00.000Z,36.5,-89.2,,4.2,mfa,,,,,ushis,ushis99,2019-08-06T22:09:54.922Z,"Kentucky-Tennessee border south of Hickman",earthquake,,,,,reviewed,ushis,bar
+1857-12-23T18:30:00.000Z,44.1,-70.2,,4.5,mblg,,,,,ushis,ushis98,2019-08-06T22:02:30.775Z,"Near Lewiston, Maine",earthquake,,,,,reviewed,ushis,official
+1857-10-23T20:15:00.000Z,43.2,-78.6,,4.3,mfa,,,,,ushis,ushis97,2019-08-06T22:01:06.181Z,"Niagara County, New York",earthquake,,,,,reviewed,ushis,sc
+1857-10-08T10:00:00.000Z,38.66,-89.16,,4.5,mfa,,,,,official,official18571008100000000,2019-08-27T21:59:35.607Z,"Near Centralia, Illinois",earthquake,,,,,reviewed,official,official
+1857-09-03T03:05:00.000Z,39.3,-120,,6,ml,,,,,ushis,ushis94,2019-08-06T21:51:35.100Z,"California-Nevada Border east of Truckee",earthquake,,,,,reviewed,ushis,cdmg
+1857-07-30T11:30:00.000Z,19.25,-155,,6.1,mint,,,,,ushis,ushis93,2019-08-23T23:39:46.102Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1857-01-09T16:24:00.000Z,35.7,-120.3,,7.93,mw,,,,,ushis,ushis92,2019-08-06T21:47:16.387Z,"The 1857 Fort Tejon Earthquake",earthquake,,,,,reviewed,ushis,hk
+1856-09-21T07:30:00.000Z,33.1,-116.7,,5.5,ml,,,,,cdmg,cdmg18560921073000000,2021-01-30T00:36:25.092Z,"Near Santa Ysabel, California",earthquake,,,,,reviewed,cdmg,cdmg
+1856-02-15T13:25:00.000Z,37.5,-122.3,,5.5,ml,,,,,ushis,ushis90,2019-08-06T20:57:19.906Z,"San Mateo County, California",earthquake,,,,,reviewed,ushis,cdmg
+1856-01-02T18:15:00.000Z,37.5,-122.5,,5.3,ml,,,,,ushis,ushis89,2019-08-06T20:55:47.546Z,"San Mateo County, California",earthquake,,,,,reviewed,ushis,cdmg
+1855-08-27T11:00:00.000Z,38.1,-122.5,,4.9,ml,,,,,ushis,ushis88,2019-08-06T20:54:49.876Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1855-07-11T04:15:00.000Z,34.1,-118.1,,6,ml,,,,,ushis,ushis87,2019-08-06T20:47:23.882Z,"Greater Los Angeles area, California",earthquake,,,,,reviewed,ushis,ell
+1855-01-25T06:00:00.000Z,39.5,-120.3,,5.5,ml,,,,,ushis,ushis83,2019-08-06T20:37:47.236Z,"Sierra County, California",earthquake,,,,,reviewed,ushis,cdmg
+1853-10-23T11:00:00.000Z,40.8,-124.2,,5.5,ml,,,,,ushis,ushis81,2021-01-29T23:50:51.949Z,"Near Eureka, California",earthquake,,,,,reviewed,ushis,cdmg
+1853-05-02T14:20:00.000Z,38.5,-79.5,,4.6,mfa,,,,,ushis,ushis79,2019-08-07T22:23:49.992Z,"Virginia-West Virginia region",earthquake,,,,,reviewed,ushis,nut
+1853-02-01T21:00:00.000Z,35.6,-121.1,,5.5,ml,,,,,ushis,ushis77,2021-01-29T23:46:39.510Z,"Near San Simeon, California",earthquake,,,,,reviewed,ushis,cdmg
+1852-11-29T20:00:00.000Z,32.5,-115,,6.5,ml,,,,,ushis,ushis75,2019-08-06T19:36:30.269Z,"Baja California, Mexico",earthquake,,,,,reviewed,ushis,cdmg
+1852-11-02T23:35:00.000Z,37.6,-78.6,,4.3,mfa,,,,,ushis,ushis73,2019-08-06T19:29:51.948Z,"Central Virginia",earthquake,,,,,reviewed,ushis,sc
+1852-04-29T18:00:00.000Z,36.6,-81.6,,4.8,mfa,,,,,ushis,ushis72,2019-08-07T22:20:03.372Z,"Southwestern Virginia",earthquake,,,,,reviewed,ushis,sc
+1851-05-15T16:10:00.000Z,37.8,-122.4,,5,ml,,,,,ushis,ushis71,2019-08-06T19:26:02.936Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1850-04-05T02:05:00.000Z,38.3,-87.7,,4.6,mfa,,,,,official,official18500405020500000,2019-08-27T20:45:03.682Z,"Southwestern Indiana",earthquake,,,,,reviewed,official,official
+1848-07-09T14:45:00.000Z,19.25,-155,,6.1,mint,,,,,ushis,ushis67,2019-08-23T23:37:39.263Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1847-08-08T15:00:00.000Z,41.7,-70.1,,4.2,mlg,,,,,ushis,ushis64,2019-08-06T19:07:22.856Z,"Cape Cod area, Massachusetts",earthquake,,,,,reviewed,ushis,official
+1844-11-28T13:00:00.000Z,36,-84,,4.2,mfa,,,,,ushis,ushis61,2019-08-06T19:01:43.569Z,"Near Knoxville, Tennessee",earthquake,,,,,reviewed,ushis,bar
+1844-02-19T05:00:00.000Z,19.25,-155,,6.1,mint,,,,,ushis,ushis59,2019-08-23T23:36:10.346Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1843-02-17T05:00:00.000Z,35.9,-89.9,,4.2,mfa,,,,,official,official18430217050000000,2019-08-27T19:44:28.038Z,"Near Blytheville, Arkansas",earthquake,,,,,reviewed,official,official
+1843-01-05T02:45:00.000Z,35.5,-90.5,,6.3,mfa,,,,,ushis,ushis54,2019-08-06T00:14:20.355Z,"Near Marked Tree, Arkansas",earthquake,,,,,reviewed,ushis,official
+1841-12-28T05:50:00.000Z,36.6,-89.2,,4.6,mfa,,,,,ushis,ushis53,2019-08-07T22:17:28.871Z,"Near Hickman, Kentucky",earthquake,,,,,reviewed,ushis,sg
+1841-04-08T10:15:00.000Z,19.25,-155,,6.5,mfa,,,,,ushis,ushis51,2019-08-23T23:34:22.312Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1840-02-02T00:00:00.000Z,19.25,-155,,6.1,mint,,,,,ushis,ushis50,2019-08-23T23:32:46.407Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1838-12-12T23:30:00.000Z,19.25,-155,,6.1,mint,,,,,ushis,ushis48,2019-08-23T23:30:58.874Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1836-06-10T15:30:00.000Z,37.8,-122.2,,6.8,ml,,,,,ushis,ushis46,2019-08-05T23:56:56.243Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,ushis,cdmg
+1834-02-20T04:30:00.000Z,19.25,-155,,5.9,mint,,,,,ushis,ushis43,2019-08-23T23:29:41.093Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1833-08-27T11:00:00.000Z,37.7,-78,,4.5,mfa,,,,,ushis,ushis42,2019-08-05T23:50:49.313Z,"Central Virginia",earthquake,,,,,reviewed,ushis,nut
+1828-03-10T03:00:00.000Z,37,-80,,4.6,mfa,,,,,ushis,ushis41,2019-08-07T22:15:18.250Z,"Southwestern Virginia",earthquake,,,,,reviewed,ushis,sc
+1827-09-24T04:00:00.000Z,34,-119,,6,mw,,,,,cdmg,cdmg18270924040000000,2021-02-21T09:50:44.091Z,"Channel Islands region, California",earthquake,,,,,reviewed,cdmg,cdmg
+1827-08-07T07:00:00.000Z,38,-88,,4.7,mfa,,,,,ushis,ushis39,2019-08-05T23:40:27.649Z,"Southwestern Indiana",earthquake,,,,,reviewed,ushis,bar
+1827-07-05T11:30:00.000Z,37.9,-87.9,,4.7,mfa,,,,,official,official18270705113000000,2019-08-26T23:14:36.000Z,"Near Mount Vernon, Indiana",earthquake,,,,,reviewed,official,official
+1823-06-02T08:30:00.000Z,19.25,-155,,7,mfa,,,,,ushis,ushis18230602083000000,2019-08-23T23:27:14.734Z,"Hawaii region, Hawaii",earthquake,,,,,reviewed,ushis,official
+1821-01-01T00:00:00.000Z,34.55,-119.85,,6.3,mw,,,,,cdmg,cdmg18210101000000000,2021-02-21T09:24:21.751Z,"Northwest of Santa Barbara, California",earthquake,,,,,reviewed,cdmg,cdmg
+1817-10-05T16:45:00.000Z,42.5,-71.2,,4.3,mlg,,,,,ushis,ushis35,2019-08-05T23:24:47.770Z,"Northeastern Massachusetts",earthquake,,,,,reviewed,ushis,official
+1817-01-08T09:00:00.000Z,32.9,-80,,5,mfa,,,,,ushis,ushis33,2020-09-18T23:58:46.770Z,"Near Charleston, South Carolina",earthquake,,,,,reviewed,ushis,nut
+1812-12-21T19:00:00.000Z,34.2,-119.9,,7.1,ml,,,,,ushis,ushis32,2021-02-21T08:10:48.113Z,"Santa Barbara Channel, California",earthquake,,,,,reviewed,ushis,cdmg
+1812-12-08T15:00:00.000Z,34.37,-117.65,,7.5,mw,,,,,cdmg,cdmg18121208150000000,2021-02-19T00:25:28.386Z,"Northwest of San Bernardino, California",earthquake,,,,,reviewed,cdmg,cdmg
+1812-11-09T22:00:00.000Z,36.5,-89.6,,4,mint,,,,,ushis,ushis30,2020-09-18T22:13:33.010Z,"New Madrid, Missouri area",earthquake,,,,,reviewed,ushis,se
+1812-02-08T04:40:00.000Z,38.7,-84.1,,5.2,mw,,,,,official,official18120208044000000,2019-08-22T21:44:19.803Z,"Northern Kentucky, southeast of Cincinnati, Ohio",earthquake,,,,,reviewed,hough,hough
+1812-02-08T02:30:00.000Z,39.4,-84.1,,4.4,mw,,,,,official,official18120208023000000,2019-08-22T21:52:23.425Z,"Northeast of Cincinnati, Ohio",earthquake,,,,,reviewed,hough,hough
+1812-02-07T09:45:00.000Z,36.3,-89.4,,7.8,mw,,,,,official,official18120207094500000,2019-08-20T21:21:22.401Z,"Western Tennessee (New Madrid Seismic Zone)",earthquake,,,,,reviewed,official,official
+1812-01-27T14:45:00.000Z,39.6,-85,,4.2,mw,,,,,official,official18120127144500000,2019-08-22T20:43:04.070Z,"Eastern Indiana, northwest of Cincinnati, Ohio",earthquake,,,,,reviewed,hough,hough
+1812-01-23T15:00:00.000Z,36.8,-89.5,,7.5,mw,,,,,official,official18120123150000000,2019-08-20T00:21:51.033Z,"North of New Madrid, Missouri (New Madrid Seismic Zone)",earthquake,,,,,reviewed,official,official
+1811-12-17T18:00:00.000Z,35.1,-90,,6.1,mw,,,,,official,official18111217180000000,2019-08-22T00:59:21.434Z,"Near Memphis, Tennessee",earthquake,,,,,reviewed,official,official
+1811-12-16T18:00:00.000Z,36.5,-89.9,,6.3,mw,,,,,official,official18111216180000000,2019-08-21T21:42:18.296Z,"Near New Madrid, Missouri (New Madrid Seismic Zone)",earthquake,,,,,reviewed,hough,hough
+1811-12-16T13:15:00.000Z,36.25,-89.5,,7,mw,,,,,official,official18111216131500000,2019-08-19T23:41:57.325Z,"Western Tennessee (New Madrid Seismic Zone)",earthquake,,,,,reviewed,official,official
+1811-12-16T09:00:00.000Z,36.5,-89.9,,6.3,mw,,,,,official,official18111216090000000,2019-08-21T20:30:19.775Z,"Near New Madrid, Missouri (New Madrid Seismic Zone)",earthquake,,,,,reviewed,hough,hough
+1811-12-16T08:15:00.000Z,36,-89.96,,7.6,mw,,,,,official,official18111216081500000,2019-08-19T23:44:05.243Z,"Northeastern Arkansas (New Madrid Seismic Zone)",earthquake,,,,,reviewed,official,official
+1810-11-10T02:15:00.000Z,43,-70.8,,4,mlg,,,,,ushis,ushis25,2019-08-05T22:25:46.047Z,"Near Portsmouth, New Hampshire",earthquake,,,,,reviewed,ushis,official
+1808-06-21T00:00:00.000Z,37.8,-122.6,,5.5,ml,,,,,cdmg,cdmg18080621000000000,2021-02-18T23:46:52.591Z,"Near San Francisco, California",earthquake,,,,,reviewed,cdmg,cdmg
+1806-03-25T08:00:00.000Z,34.4,-119.7,,5.5,ml,,,,,ushis,ushis23,2021-02-18T22:43:40.383Z,"Near Santa Barbara, California",earthquake,,,,,reviewed,ushis,cdmg
+1804-08-20T20:10:00.000Z,42,-87.8,,4.4,mfa,,,,,ushis,ushis22,2019-08-05T22:22:24.524Z,"Chicago area, Illinois",earthquake,,,,,reviewed,ushis,sc
+1803-05-25T00:00:00.000Z,32.8,-117.1,,5.5,ml,,,,,ushis,ushis21,2021-02-18T22:23:09.544Z,"San Diego area, California",earthquake,,,,,reviewed,ushis,cdmg
+1800-11-22T21:30:00.000Z,32.9,-117.8,,6.3,mw,,,,,cdmg,cdmg18001122213000000,2021-02-18T21:53:35.019Z,"Gulf of Santa Catalina, California",earthquake,,,,,reviewed,cdmg,cdmg
+1800-10-11T00:00:00.000Z,36.87,-121.57,,5.5,ml,,,,,cdmg,cdmg18001011000000000,2021-02-18T21:39:00.287Z,"Near San Juan Bautista, California",earthquake,,,,,reviewed,cdmg,cdmg
+1791-05-16T13:00:00.000Z,41.5,-72.5,,4.4,mlg,,,,,ushis,ushis16,2019-08-05T22:13:43.191Z,"Near Moodus, Connecticut",earthquake,,,,,reviewed,ushis,official
+1783-11-30T03:50:00.000Z,41,-74.5,,5.1,mfa,,,,,official,official17831130035000000,2019-08-05T22:06:51.821Z,"New Jersey",earthquake,,,,,reviewed,official,official
+1774-02-21T19:11:00.000Z,37.2,-77.4,,4.5,mfa,,,,,ushis,ushis11,2019-08-05T22:02:08.736Z,"Near Petersburg, Virginia",earthquake,,,,,reviewed,ushis,sc
+1769-07-28T00:00:00.000Z,33.9,-117.8,,6,ml,,,,,ushis,ushis10,2019-08-05T21:59:57.742Z,"Greater Los Angeles area, California",earthquake,,,,,reviewed,ushis,ell
+1761-03-12T07:15:00.000Z,42.7,-70.3,,4.6,mlg,,,,,ushis,ushis8,2019-08-05T21:57:21.240Z,"East of Rockport, Massachusetts",earthquake,,,,,reviewed,ushis,official
+1755-11-18T09:11:35.000Z,42.7,-70.3,,5.9,mw,,,,,ushis,ushis7,2019-08-05T21:55:57.753Z,"The 1755 Cape Ann Earthquake",earthquake,,,,,reviewed,ushis,official
+1744-06-14T15:15:00.000Z,42.6,-70.9,,4.7,mlg,,,,,ushis,ushis6,2019-08-05T21:53:27.176Z,"Near Salem, Massachusetts",earthquake,,,,,reviewed,ushis,official
+1737-12-19T03:45:00.000Z,40.8,-74,,5.1,mfa,,,,,ushis,ushis5,2019-08-05T21:51:16.470Z,"Greater New York area, New Jersey",earthquake,,,,,reviewed,ushis,official
+1732-09-16T16:00:00.000Z,45.5,-73.6,,6.3,mw,,,,,ushis,ushis4,2019-08-05T21:49:15.774Z,"Near Montreal, Quebec, Canada",earthquake,,,,,reviewed,ushis,official
+1727-11-10T03:40:00.000Z,42.8417,-70.9788,,5.5,mb,,,,,official,official17271110034000000,2019-08-05T21:48:03.135Z,"Near Newburyport, Massachusetts",earthquake,,,,,reviewed,official,official
+1663-02-05T22:30:00.000Z,47.6,-70.1,,7,mw,,,,,ushis,ushis2,2019-08-05T21:40:26.957Z,"Near La Malbaie, Quebec, Canada",earthquake,,,,,reviewed,ushis,official
+1638-06-11T19:00:00.000Z,43.4,-71.6,,6.5,mlg,,,,,official,official16380611190000000,2019-11-07T23:56:00.720Z,"Central New Hampshire",earthquake,,,,,reviewed,official,official

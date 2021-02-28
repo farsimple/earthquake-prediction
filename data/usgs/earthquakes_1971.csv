@@ -1,0 +1,492 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1971-12-31T22:37:27.000Z,6.125,123.288,625,5.7,mw,,,,,iscgem,iscgem778212,2015-05-13T18:53:06.000Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-30T15:39:39.000Z,-4.789,151.804,111.3,6,mw,,,,,iscgem,iscgem778182,2020-07-09T23:07:56.486Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-29T22:27:07.000Z,25.206,94.708,62.3,5.7,mw,,,,,iscgem,iscgem778161,2020-07-09T23:07:45.615Z,"Myanmar-India border region",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-29T11:38:43.090Z,19.2435,-155.3581667,6.322,4.51,ml,26,155,,0.12,hv,hv19716784,2020-03-31T17:05:55.690Z,"Hawaii region, Hawaii",earthquake,0.57,0.75,0.14,4,reviewed,hv,hv
+1971-12-29T10:42:03.160Z,19.2505,-155.3688333,5.982,4.35,ml,27,149,,0.11,hv,hv19716774,2020-03-31T17:05:51.570Z,"Hawaii region, Hawaii",earthquake,0.56,0.79,,4,reviewed,hv,hv
+1971-12-29T02:59:12.020Z,19.2423333,-155.3773333,5.822,4.66,ml,27,149,,0.1,hv,hv19716728,2020-03-31T17:05:43.490Z,"Hawaii region, Hawaii",earthquake,0.59,0.8,0.14,4,reviewed,hv,hv
+1971-12-28T07:50:00.870Z,47.5748333,-122.2091667,20.623,4.1,md,8,95,,0.09,uw,uw10852348,2016-07-24T23:52:19.940Z,"Seattle-Tacoma urban area, Washington",earthquake,0.561,0.72,0.05,7,reviewed,uw,uw
+1971-12-28T03:09:54.940Z,19.2658333,-155.3703333,6.322,4.23,ml,25,141,,0.1,hv,hv19716604,2020-03-31T16:46:44.190Z,"Hawaii region, Hawaii",earthquake,0.53,0.78,0.04,4,reviewed,hv,hv
+1971-12-28T01:11:52.460Z,19.2515,-155.3705,3.642,4.87,ml,26,160,,0.13,hv,hv19716583,2020-03-31T16:46:41.160Z,"Hawaii region, Hawaii",earthquake,0.8,2.04,0.18,3,reviewed,hv,hv
+1971-12-27T11:00:57.000Z,-19.863,-175.727,220.5,5.9,mw,,,,,iscgem,iscgem778097,2015-05-13T18:53:06.000Z,"Tonga",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-27T07:46:46.490Z,19.2356667,-155.3535,8.112,4.08,ml,25,172,,0.11,hv,hv19716479,2020-03-31T16:47:02.620Z,"Hawaii region, Hawaii",earthquake,0.93,0.65,0.22,4,reviewed,hv,hv
+1971-12-27T07:31:28.700Z,19.2368333,-155.3588333,8.382,4.15,ml,24,170,,0.07,hv,hv19716475,2020-03-31T16:47:02.020Z,"Hawaii region, Hawaii",earthquake,0.81,0.53,0.08,4,reviewed,hv,hv
+1971-12-26T21:24:07.740Z,19.1705,-155.335,4.792,4.92,ml,22,210,,0.11,hv,hv19716410,2020-03-31T16:45:21.880Z,"Hawaii region, Hawaii",earthquake,0.98,0.73,0.04,2,reviewed,hv,hv
+1971-12-26T15:50:55.000Z,-6.245,154.889,35,5.8,mw,,,,,iscgem,iscgem778078,2020-07-09T23:07:33.934Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-26T13:19:01.000Z,50.643,-174.989,15,5.6,mw,,,,,iscgem,iscgem778073,2015-05-13T18:53:06.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-26T11:14:01.970Z,19.2458333,-155.361,6.392,4.25,ml,23,153,,0.12,hv,hv19716325,2020-03-31T16:45:09.470Z,"Hawaii region, Hawaii",earthquake,0.71,1,0.19,3,reviewed,hv,hv
+1971-12-25T03:38:12.860Z,19.1976667,-155.3613333,6.902,4.32,ml,28,167,,0.13,hv,hv19716208,2020-03-31T16:46:23.330Z,"Hawaii region, Hawaii",earthquake,0.78,0.62,,5,reviewed,hv,hv
+1971-12-25T02:11:13.160Z,19.1621667,-155.3468333,8.232,4.41,ml,26,214,,0.11,hv,hv19716198,2020-03-31T16:46:21.870Z,"Hawaii region, Hawaii",earthquake,1.29,0.65,0.02,4,reviewed,hv,hv
+1971-12-24T18:00:57.100Z,18.8,-155.288,11.516,4.23,ml,22,268,,0.09,hv,hv19716173,2020-03-31T16:49:13.720Z,"Hawaii region, Hawaii",earthquake,2.55,1.79,0.13,4,reviewed,hv,hv
+1971-12-24T08:02:18.590Z,18.8383333,-155.3086667,12.336,4.28,ml,25,262,,0.1,hv,hv19716140,2020-03-31T16:49:09.080Z,"Hawaii region, Hawaii",earthquake,1.49,1.61,0.09,4,reviewed,hv,hv
+1971-12-19T07:50:29.000Z,56.005,162.83,27.5,5.5,mw,,,,,iscgem,iscgem777891,2015-05-13T18:53:06.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-18T21:57:53.000Z,55.602,163.045,27.4,5.8,mw,,,,,iscgem,iscgem777881,2015-05-13T18:53:06.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-17T19:06:08.000Z,55.474,163.657,28.8,6.3,mw,,,,,iscgem,iscgem777847,2015-05-13T18:53:06.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-16T12:25:49.000Z,55.804,163.453,27.5,5.6,mw,,,,,iscgem,iscgem777807,2015-05-13T18:53:06.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-15T09:22:37.000Z,55.838,163.664,27.5,5.6,mw,,,,,iscgem,iscgem777758,2015-05-13T18:53:06.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-15T08:29:57.000Z,55.959,163.269,27.5,7.6,mw,,,,,iscgem,iscgem777750,2020-07-09T23:07:15.224Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-14T21:09:59.370Z,37.1238333,-116.0896667,0.3,4.16,ml,13,277,,0.6,ci,ci3321782,2016-01-29T01:15:30.280Z,"64km ENE of Beatty, NV",nuclear explosion,99,31.61,0.134,11,reviewed,ci,ci
+1971-12-11T07:25:19.000Z,-6.151,154.577,55,6.5,mw,,,,,iscgem,iscgem777661,2020-07-09T23:06:57.428Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-11T03:29:59.000Z,1.761,127.32,115,5.6,mw,,,,,iscgem,iscgem777656,2020-07-09T23:06:46.256Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-09T15:01:01.000Z,-21.648,173.42,45,6,mw,,,,,iscgem,iscgem777617,2015-05-13T18:53:06.000Z,"Vanuatu region",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-09T12:15:57.460Z,19.3223333,-155.1035,8.068,4.34,ml,27,155,,0.09,hv,hv19715787,2020-03-31T16:45:38.450Z,"Hawaii region, Hawaii",earthquake,0.74,0.55,0.16,2,reviewed,hv,hv
+1971-12-09T12:03:02.290Z,19.3891667,-155.4106667,6.64,4,ml,19,161,,0.1,hv,hv19715786,2020-03-31T16:45:38.300Z,"Hawaii region, Hawaii",earthquake,0.8,1.32,0.1,1,reviewed,hv,hv
+1971-12-09T01:42:33.000Z,27.275,56.441,15,5.8,mw,,,,,iscgem,iscgem777603,2020-07-09T23:06:33.180Z,"southern Iran",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-08T17:18:56.000Z,37.615,-115.288,8,4.8,mb,,,,,ushis,ushis3176,2018-06-04T20:43:45.000Z,"Nevada",earthquake,,,,,reviewed,ushis,us
+1971-12-08T16:05:28.000Z,-22.805,-70.371,30,6.1,mw,,,,,iscgem,iscgem777588,2020-07-09T23:06:22.231Z,"near the coast of Antofagasta, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-08T08:38:23.000Z,49.125,-128.817,15,5.6,mw,,,,,iscgem,iscgem777577,2015-05-13T18:53:06.000Z,"Vancouver Island, Canada region",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-07T12:04:19.000Z,55.048,-54.437,20,5.5,mw,,,,,iscgem,iscgem777559,2015-05-13T18:53:06.000Z,"Labrador Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-07T06:23:12.000Z,3.74,127.991,55.5,5.8,mw,,,,,iscgem,iscgem777551,2015-05-13T18:53:06.000Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-07T03:26:19.000Z,-54.438,5.837,15,6.2,mw,,,,,iscgem,iscgem777545,2015-05-13T18:53:06.000Z,"Bouvet Island region",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-05T05:50:08.000Z,49.452,-129.853,10,6,mw,,,,,iscgem,iscgem777492,2015-05-13T18:53:06.000Z,"Vancouver Island, Canada region",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-04T15:55:46.000Z,7.942,126.59,55,5.5,mw,,,,,iscgem,iscgem777470,2020-07-09T23:06:09.057Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-04T02:25:53.000Z,-6.12,154.597,82.9,6.3,mw,,,,,iscgemsup,iscgemsup777457,2020-07-10T13:36:30.161Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-02T17:18:22.000Z,44.889,153.314,20,6.6,mw,,,,,iscgem,iscgem777414,2015-05-13T18:53:06.000Z,"east of the Kuril Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-30T15:45:02.240Z,37.05,-116.14,0.01,4.05,ml,11,282,,0.6,ci,ci3321744,2016-01-29T01:20:21.320Z,"57km ENE of Beatty, NV",nuclear explosion,99,31.61,0.279,11,reviewed,ci,ci
+1971-11-30T04:22:04.370Z,31.7681667,-115.4853333,6,4.48,ml,7,290,,0.61,ci,ci3321740,2016-01-29T01:25:25.930Z,"59km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,8.45,31.61,0.272,9,reviewed,ci,ci
+1971-11-29T20:14:13.000Z,-11.288,-77.715,53,5.8,mw,,,,,iscgem,iscgem778920,2020-07-09T23:10:00.570Z,"near the coast of central Peru",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-28T11:12:02.000Z,-29.98,-69.428,110,5.9,mw,,,,,iscgem,iscgem778892,2020-07-09T23:09:48.613Z,"San Juan, Argentina",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-27T13:45:12.000Z,29.203,130.293,53.6,5.6,mw,,,,,iscgem,iscgem778871,2015-05-13T18:53:06.000Z,"Ryukyu Islands, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-24T20:15:01.260Z,36.8791667,-115.9346667,0.3,4.3,ml,9,249,,1.07,ci,ci3321733,2016-01-29T01:10:17.460Z,"73km E of Beatty, NV",nuclear explosion,99,31.61,0.155,8,reviewed,ci,ci
+1971-11-24T19:35:33.000Z,52.803,159.199,125,7.3,mw,,,,,iscgem,iscgem778805,2020-07-09T23:09:22.828Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-24T00:58:07.000Z,46.598,152.641,50,5.5,mw,,,,,iscgem,iscgem778764,2015-05-13T18:53:06.000Z,"Kuril Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-23T02:12:17.860Z,48.1663333,-121.4268333,24.294,4.1,md,6,293,0.7521,0.17,uw,uw10852038,2016-07-24T23:48:33.860Z,"Washington",earthquake,1.951,2.31,0.06,6,reviewed,uw,uw
+1971-11-22T08:19:57.000Z,0.105,123.995,103.3,6,mw,,,,,iscgemsup,iscgemsup778732,2020-07-10T13:36:46.148Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-22T00:46:13.000Z,52.253,174.231,43.7,6.1,mw,,,,,iscgem,iscgem778718,2019-05-21T00:30:01.463Z,"Near Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-21T06:20:01.000Z,-11.926,166.568,116.6,6.1,mw,,,,,iscgem,iscgem778698,2015-05-13T18:53:06.000Z,"Santa Cruz Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-21T05:57:12.000Z,-11.857,166.557,113.1,7.1,mw,,,,,iscgem,iscgem778697,2020-07-09T23:09:08.086Z,"Santa Cruz Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-20T21:24:41.000Z,48.714,-129.651,15,5.8,mw,,,,,iscgem,iscgem778692,2015-05-13T18:53:06.000Z,"Vancouver Island, Canada region",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-20T13:59:04.300Z,40.3,-124.4,25,4.6,ms,,,,,ushis,ushis3174,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,us
+1971-11-20T07:28:00.000Z,-23.449,-179.857,543.1,6.5,mw,,,,,iscgem,iscgem778677,2015-05-13T18:53:06.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-18T07:31:34.000Z,38.404,66.639,29.2,5.6,mw,,,,,iscgem,iscgem778645,2020-07-09T23:08:56.817Z,"eastern Uzbekistan",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-11T11:16:53.000Z,-2.682,136.511,15,5.8,mw,,,,,iscgem,iscgem778478,2020-07-09T23:08:45.485Z,"near the north coast of Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-08T22:43:02.000Z,5.737,126.433,170,5.6,mw,,,,,iscgem,iscgem778408,2015-05-13T18:53:06.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-08T03:06:37.000Z,26.978,54.519,20,6.2,mw,,,,,iscgem,iscgem778388,2020-07-09T23:08:20.049Z,"southern Iran",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-07T14:12:27.000Z,-4.544,-105.609,10,5.9,mw,,,,,iscgem,iscgem778373,2015-05-13T18:53:06.000Z,"central East Pacific Rise",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-05T23:57:29.000Z,-2.006,100.126,35,5.6,mw,,,,,iscgem,iscgem778331,2020-07-09T23:08:08.443Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-05T22:11:16.000Z,10.142,92.987,52.5,5.7,mw,,,,,iscgem,iscgem778328,2015-05-13T18:53:06.000Z,"Andaman Islands, India region",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-30T20:48:50.000Z,23.024,121.404,35,6.2,mw,,,,,iscgem,iscgem779829,2020-07-09T23:13:09.361Z,"Taiwan",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-30T14:16:24.000Z,32.109,137.825,388,5.7,mw,,,,,iscgem,iscgem779816,2015-05-13T18:53:06.000Z,"Izu Islands, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-29T14:06:31.000Z,49.877,154.968,121.4,5.7,mw,,,,,iscgem,iscgem779780,2015-05-13T18:53:06.000Z,"Kuril Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-28T18:00:02.000Z,-13.384,166.429,35,6.7,mw,,,,,iscgem,iscgem779742,2015-05-13T18:53:06.000Z,"Vanuatu",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-28T15:13:39.000Z,-5.627,153.887,105,6.1,mw,,,,,iscgemsup,iscgemsup779736,2015-07-13T17:02:24.000Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-28T14:20:32.000Z,-13.342,166.392,40,5.7,mw,,,,,iscgemsup,iscgemsup779733,2015-07-13T17:02:24.000Z,"Vanuatu",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-27T17:58:39.000Z,-15.582,167.246,45,6.8,mw,,,,,iscgem,iscgem779689,2020-07-09T23:12:53.854Z,"Vanuatu",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-27T09:27:17.000Z,17.535,120.134,25,5.5,mw,,,,,iscgem,iscgem779680,2020-07-09T23:12:41.972Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-26T19:05:07.000Z,11.866,142.632,25,5.7,mw,,,,,iscgem,iscgem779659,2015-05-13T18:53:06.000Z,"south of the Mariana Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-25T03:46:38.000Z,-13.062,166.393,40,6.4,mw,,,,,iscgem,iscgem779613,2015-05-13T18:53:06.000Z,"Vanuatu",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-24T02:21:03.000Z,11.85,142.422,25,6.2,mw,,,,,iscgem,iscgem779574,2015-05-13T18:53:06.000Z,"south of the Mariana Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-24T01:37:31.000Z,11.929,142.405,25,6.5,mw,,,,,iscgem,iscgem779569,2015-05-13T18:53:06.000Z,"south of the Mariana Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-23T23:01:19.000Z,-57.32,-25.523,25,5.7,mw,,,,,iscgem,iscgem779564,2015-05-13T18:53:06.000Z,"South Sandwich Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-23T22:33:32.000Z,11.909,142.531,21.6,6.6,mw,,,,,iscgem,iscgem779563,2015-05-13T18:53:06.000Z,"south of the Mariana Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-23T01:41:12.000Z,-54.798,146.364,10,6.3,mw,,,,,iscgem,iscgem779543,2015-05-13T18:53:06.000Z,"west of Macquarie Island",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-21T08:22:46.000Z,24.885,125.24,55,5.5,mw,,,,,iscgem,iscgem779488,2015-05-13T18:53:06.000Z,"southwestern Ryukyu Islands, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-20T08:40:21.000Z,21.967,121.388,43.8,5.8,mw,,,,,iscgem,iscgem779458,2020-07-09T23:12:30.971Z,"Taiwan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-19T11:02:40.000Z,52.621,-166.845,31.6,5.8,mw,,,,,iscgem,iscgem779432,2019-05-21T00:28:21.323Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-18T12:55:39.000Z,-22.679,171.284,65,6.1,mw,,,,,iscgem,iscgem779410,2015-05-13T18:53:06.000Z,"southeast of the Loyalty Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-16T21:54:29.000Z,-3.467,127.154,60,5.6,mw,,,,,iscgem,iscgem779376,2020-07-09T23:12:19.992Z,"Seram, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-16T05:15:25.000Z,-5.993,154.403,70,6.2,mw,,,,,iscgem,iscgem779357,2020-07-09T23:12:05.801Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-15T10:33:46.000Z,-14.266,-73.392,35,5.5,mw,,,,,iscgem,iscgem779337,2020-07-09T23:11:55.182Z,"central Peru",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-14T22:36:33.000Z,-54.276,2.317,10,6.6,mw,,,,,iscgem,iscgem779325,2015-05-13T18:53:06.000Z,"Bouvet Island region",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-14T14:30:01.650Z,37.03,-115.99,0.01,4,ml,8,290,,1.16,ci,ci3321893,2016-01-29T01:20:22.390Z,"69km ENE of Beatty, NV",nuclear explosion,99,31.61,0.159,9,reviewed,ci,ci
+1971-10-13T22:36:05.000Z,-21.936,-68.332,118.2,5.8,mw,,,,,iscgem,iscgem779299,2015-05-13T18:53:06.000Z,"Antofagasta, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-13T14:01:48.000Z,51.727,-179.522,96,5.5,mw,,,,,iscgem,iscgem779286,2015-05-13T18:53:06.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-12T09:44:59.000Z,15.888,-91.004,25,5.7,mw,,,,,iscgem,iscgem779252,2020-07-09T23:11:43.818Z,"Guatemala",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-09T13:15:38.000Z,24.903,121.987,87.3,5.6,mw,,,,,iscgem,iscgem779172,2020-07-09T23:11:32.202Z,"Taiwan",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-09T11:05:08.000Z,43.045,143.912,115.3,5.5,mw,,,,,iscgem,iscgem779167,2020-07-09T23:11:19.765Z,"Hokkaido, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-08T16:04:45.000Z,-18.053,-178.211,545.9,5.7,mw,,,,,iscgem,iscgem779153,2015-05-13T18:53:05.000Z,"Fiji region",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-08T14:30:01.010Z,37.1138333,-116.0373333,0.4,4.18,ml,13,265,,1.58,ci,ci3321863,2016-01-29T01:25:21.940Z,"68km ENE of Beatty, NV",nuclear explosion,99,31.61,0.21,11,reviewed,ci,ci
+1971-10-08T14:15:39.000Z,-6.851,144.293,27.5,5.5,mw,,,,,iscgem,iscgem779151,2020-07-09T23:11:06.967Z,"New Guinea, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-04T01:30:33.000Z,-5.931,154.136,45,6.8,mw,,,,,iscgem,iscgem779023,2020-07-09T23:10:41.404Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-03T13:24:40.000Z,-14.571,171.68,10,6.7,mw,,,,,iscgem,iscgem779005,2015-05-13T18:53:05.000Z,"Vanuatu region",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-03T08:36:05.000Z,-6.548,154.964,55,6,mw,,,,,iscgem,iscgem779000,2020-07-09T23:10:26.331Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-01T07:28:25.260Z,19.265,-155.3428333,0.133,4.16,ml,12,149,,0.12,hv,hv19714940,2020-03-31T16:46:20.040Z,"Hawaii region, Hawaii",earthquake,0.53,0.61,0.15,4,reviewed,hv,hv
+1971-10-01T05:16:54.000Z,-4.34,152.906,20,6,mw,,,,,iscgem,iscgem778949,2020-07-09T23:10:11.103Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-30T22:46:10.870Z,32.9826667,-115.8038333,6,5.02,ml,8,96,,0.76,ci,ci3321788,2018-06-04T20:43:45.000Z,"18km WSW of Westmorland, CA",earthquake,3.18,31.61,0.149,9,reviewed,ci,ci
+1971-09-30T21:31:24.000Z,61.662,140.259,15,6,mw,,,,,iscgem,iscgem780753,2015-05-13T18:53:05.000Z,"Khabarovskiy Kray, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-30T21:24:10.000Z,-0.514,-4.956,15,5.8,mw,,,,,iscgem,iscgem780752,2015-05-13T18:53:05.000Z,"South Atlantic Ocean",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-30T08:18:00.000Z,26.816,-110.834,15,6.5,mw,,,,,iscgem,iscgem780731,2020-07-09T23:16:40.793Z,"Gulf of California",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-29T14:00:00.840Z,37.011,-116.073,0.4,4.09,ml,10,278,,0.66,ci,ci3322174,2016-01-29T01:44:45.740Z,"62km E of Beatty, NV",nuclear explosion,99,31.61,0.235,15,reviewed,ci,ci
+1971-09-28T23:16:02.000Z,-32.046,-70.007,106,5.8,mw,,,,,iscgem,iscgem780698,2015-05-13T18:53:05.000Z,"San Juan, Argentina",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-28T19:45:16.000Z,-8.888,157.449,25,5.6,mw,,,,,iscgem,iscgem780694,2015-05-13T18:53:05.000Z,"Solomon Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-27T22:20:01.000Z,-3.227,148.324,10,6.2,mw,,,,,iscgem,iscgem780674,2015-05-13T18:53:05.000Z,"Bismarck Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-27T19:01:47.000Z,46.347,141.144,18.4,6.6,mw,,,,,iscgem,iscgem780665,2020-07-09T23:16:22.652Z,"Sakhalin, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-27T14:56:13.000Z,-5.822,145.452,110,5.7,mw,,,,,iscgem,iscgem780659,2020-07-09T23:16:11.815Z,"eastern New Guinea region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-26T16:33:05.000Z,0.072,124.822,59.2,5.8,mw,,,,,iscgem,iscgem780632,2015-05-13T18:53:05.000Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-26T15:25:23.000Z,3.194,125.822,75,5.6,mw,,,,,iscgem,iscgem780629,2015-05-13T18:53:05.000Z,"Kepulauan Sangihe, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-26T11:02:58.000Z,-56.628,-27.393,165,5.8,mw,,,,,iscgem,iscgem780625,2015-05-13T18:53:05.000Z,"South Sandwich Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-25T13:05:57.000Z,-32.475,-73.076,15,5.7,mw,,,,,iscgem,iscgem780598,2015-05-13T18:53:05.000Z,"off the coast of Valparaiso, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-25T04:36:15.000Z,-6.516,146.636,110.8,6.8,mw,,,,,iscgemsup,iscgemsup780585,2020-07-10T13:37:24.922Z,"eastern New Guinea region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-24T04:32:57.000Z,-16.554,-73.614,37.5,5.8,mw,,,,,iscgem,iscgem780563,2020-07-09T23:16:01.408Z,"near the coast of southern Peru",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-24T01:10:02.000Z,39.345,143.37,22,6.4,mw,,,,,iscgem,iscgem780560,2015-05-13T18:53:05.000Z,"off the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-23T13:31:14.000Z,53.699,-164.778,45,5.5,mw,,,,,iscgem,iscgem780549,2015-05-13T18:53:05.000Z,"Unimak Island region, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-22T14:14:20.000Z,14.815,-93.829,22.5,5.9,mw,,,,,iscgem,iscgem780523,2015-05-13T18:53:05.000Z,"off the coast of Chiapas, Mexico",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-21T08:43:32.000Z,37.326,138.748,182.4,5.5,mw,,,,,iscgem,iscgem780488,2020-07-09T23:15:49.209Z,"near the west coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-16T06:22:40.000Z,-5.912,130.603,131,7,mw,,,,,iscgemsup,iscgemsup780358,2020-07-10T13:36:58.992Z,"Banda Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-15T14:55:08.000Z,39.11,143.525,25,6,mw,,,,,iscgem,iscgem780342,2015-05-13T18:53:05.000Z,"off the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-14T05:20:28.000Z,-6.402,151.519,20,6.3,mw,,,,,iscgem,iscgem780288,2015-05-13T18:53:05.000Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-14T03:11:04.000Z,22.789,100.764,15,5.5,mw,,,,,iscgem,iscgem780286,2020-07-09T23:15:38.380Z,"Yunnan, China",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-14T03:03:39.000Z,-7.291,156.061,35,6,mw,,,,,iscgem,iscgem780285,2020-07-09T23:15:27.636Z,"Solomon Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-13T04:18:01.000Z,17.876,-69.606,35,5.5,mw,,,,,iscgem,iscgem780264,2015-05-13T18:53:05.000Z,"Dominican Republic region",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-12T19:32:38.000Z,41.298,-123.673,23,4.9,mb,,,,,ushis,ushis3171,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,us
+1971-09-12T08:06:54.000Z,-26.81,-177.161,97.5,6,mw,,,,,iscgem,iscgem780221,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-10T06:28:51.000Z,-20.413,-174.265,20,6,mw,,,,,iscgem,iscgem780171,2015-05-13T18:53:05.000Z,"Tonga",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-09T23:01:10.000Z,44.527,150.728,20,6.2,mw,,,,,iscgem,iscgem780161,2015-05-13T18:53:05.000Z,"east of the Kuril Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-08T22:09:00.000Z,-6.536,130.71,65,5.7,mw,,,,,iscgem,iscgem780117,2015-05-13T18:53:05.000Z,"Banda Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-08T16:59:55.000Z,46.264,141.07,20,6.5,mw,,,,,iscgem,iscgem780102,2020-07-09T23:15:10.230Z,"Sakhalin, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-08T11:48:27.000Z,46.399,141.18,17.5,6.8,mw,,,,,iscgem,iscgem780077,2020-07-09T23:14:47.609Z,"Sakhalin, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-08T07:25:15.000Z,37.165,141.565,46.6,5.6,mw,,,,,iscgem,iscgem780071,2020-07-09T23:14:35.270Z,"near the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-08T03:17:28.000Z,46.692,141.449,20,5.7,mw,,,,,iscgem,iscgem780069,2020-07-09T23:14:21.457Z,"Sakhalin, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-06T13:37:11.000Z,46.756,141.524,19.2,6.1,mw,,,,,iscgem,iscgem780012,2020-07-09T23:13:58.216Z,"Sakhalin, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-06T06:46:01.000Z,46.362,141.164,15,5.7,mw,,,,,iscgem,iscgem779996,2015-05-13T18:53:05.000Z,"Sakhalin, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-05T19:33:49.000Z,46.349,141.229,17.5,5.7,mw,,,,,iscgem,iscgem779973,2015-05-13T18:53:05.000Z,"Sakhalin, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-05T18:35:30.000Z,46.505,141.199,18.1,7.3,mw,,,,,iscgem,iscgem779972,2020-07-09T23:13:24.544Z,"Sakhalin, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-04T15:53:27.000Z,54.971,-163.325,115,5.9,mw,,,,,iscgem,iscgem779944,2019-05-21T00:17:57.718Z,"Unimak Island region, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-02T23:47:50.000Z,-24.441,-175.082,10,5.6,mw,,,,,iscgem,iscgem779903,2015-05-13T18:53:05.000Z,"south of Tonga",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-02T06:33:17.000Z,-10.98,166.233,135,5.6,mw,,,,,iscgem,iscgem779889,2015-05-13T18:53:05.000Z,"Santa Cruz Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-29T03:35:16.000Z,6.308,127.377,54.7,5.6,mw,,,,,iscgem,iscgem781730,2015-05-13T18:53:05.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-28T15:57:48.000Z,28.332,130.765,24.5,5.8,mw,,,,,iscgem,iscgem781715,2015-05-13T18:53:05.000Z,"Ryukyu Islands, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-28T04:09:07.000Z,-19.013,-174.584,144.6,5.5,mw,,,,,iscgem,iscgem781694,2015-05-13T18:53:05.000Z,"Tonga",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-26T10:50:42.000Z,-55.902,-26.159,35,5.8,mw,,,,,iscgem,iscgem781625,2015-05-13T18:53:05.000Z,"South Sandwich Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-24T16:33:21.000Z,52.197,91.47,5.9,5.8,mw,,,,,iscgem,iscgem781562,2015-05-13T18:53:05.000Z,"southwestern Siberia, Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-23T21:55:20.000Z,45.658,150.902,41.8,6.2,mw,,,,,iscgem,iscgem781531,2015-05-13T18:53:05.000Z,"Kuril Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-23T04:08:02.000Z,-3.974,145.924,10,6.5,mw,,,,,iscgem,iscgem781503,2020-07-09T23:20:04.625Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-21T12:47:49.000Z,-21.841,-70.519,37.8,5.7,mw,,,,,iscgem,iscgem781442,2020-07-09T23:19:53.860Z,"near the coast of Antofagasta, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-20T21:36:10.000Z,13.292,-92.404,27.5,6,mw,,,,,iscgem,iscgem781421,2015-05-13T18:53:05.000Z,"near the coast of Guatemala",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-19T22:15:40.000Z,49.286,155.441,37.7,6.4,mw,,,,,iscgem,iscgem781391,2015-05-13T18:53:05.000Z,"Kuril Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-19T08:28:56.000Z,23.991,121.913,25.6,6.3,mw,,,,,iscgem,iscgem781373,2020-07-09T23:19:35.672Z,"Taiwan",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-18T14:00:00.140Z,37.0571667,-116.0363333,0.5,4.76,ml,15,254,,0.41,ci,ci3342566,2016-01-29T01:44:41.730Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.205,11,reviewed,ci,ci
+1971-08-17T23:46:35.000Z,-15.555,-173.264,15,5.6,mw,,,,,iscgem,iscgem781334,2015-05-13T18:53:05.000Z,"Tonga",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-16T22:37:33.000Z,28.791,103.595,20,5.6,mw,,,,,iscgem,iscgem781312,2020-07-09T23:19:24.362Z,"eastern Sichuan, China",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-16T18:53:55.000Z,28.861,103.734,20,5.8,mw,,,,,iscgem,iscgem781305,2020-07-09T23:19:09.824Z,"eastern Sichuan, China",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-16T08:18:37.780Z,19.3115,-155.2148333,8.623,4.11,ml,21,154,,0.1,hv,hv19713661,2020-03-31T18:11:36.140Z,"Hawaii region, Hawaii",earthquake,0.56,0.47,0.01,4,reviewed,hv,hv
+1971-08-16T04:58:00.000Z,28.845,103.693,20,5.7,mw,,,,,iscgem,iscgem781293,2020-07-09T23:18:57.774Z,"eastern Sichuan, China",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-16T01:36:09.040Z,19.3591667,-155.2725,34.114,4.9,ml,28,110,,0.07,hv,hv19713650,2020-04-25T01:40:42.065Z,"Hawaii region, Hawaii",earthquake,0.68,1.18,0.04,3,reviewed,hv,hv
+1971-08-14T15:00:25.000Z,-21.735,-67.227,185,5.9,mw,,,,,iscgem,iscgem781247,2015-05-13T18:53:05.000Z,"Potosi, Bolivia",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-14T09:02:52.000Z,-15.547,-178.289,25,6.5,mw,,,,,iscgem,iscgem781235,2015-05-13T18:53:05.000Z,"Fiji region",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-14T09:01:33.000Z,-15.751,-178.376,25,6.6,mw,,,,,iscgem,iscgem781234,2015-05-13T18:53:05.000Z,"Fiji region",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-14T00:15:19.000Z,-14.762,167.216,118.7,5.6,mw,,,,,iscgem,iscgem781224,2020-07-09T23:18:47.569Z,"Vanuatu",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-13T16:48:46.000Z,-6.022,154.114,10,6.2,mw,,,,,iscgem,iscgem781208,2015-05-13T18:53:05.000Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-12T14:20:43.000Z,19.596,-106.066,19.2,5.8,mw,,,,,iscgem,iscgem781171,2015-05-13T18:53:05.000Z,"offshore Jalisco, Mexico",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-12T04:17:04.000Z,12.447,95.084,19.3,5.5,mw,,,,,iscgem,iscgem781160,2015-05-13T18:53:05.000Z,"Andaman Islands, India region",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-11T14:23:30.000Z,-62.806,155.55,10,6.2,mw,,,,,iscgem,iscgem781143,2015-05-13T18:53:05.000Z,"Balleny Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-11T04:53:20.000Z,1.172,126.154,45,5.5,mw,,,,,iscgem,iscgem781129,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-10T14:37:56.000Z,-5.385,153.499,35,6,mw,,,,,iscgem,iscgem781111,2015-05-13T18:53:05.000Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-10T04:23:58.000Z,-5.711,152.113,35,5.7,mw,,,,,iscgem,iscgem781099,2020-07-09T23:18:36.779Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-09T20:01:41.000Z,-5.651,152.174,35,6.3,mw,,,,,iscgem,iscgem781082,2020-07-09T23:18:22.355Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-09T12:12:03.000Z,-5.964,154.282,64.5,6.5,mw,,,,,iscgem,iscgem781078,2020-07-09T23:18:04.250Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-09T02:54:37.000Z,36.337,52.841,20,5.6,mw,,,,,iscgem,iscgem781062,2020-07-09T23:17:50.824Z,"northern Iran",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-07T06:53:29.000Z,-13.942,167.164,182.5,5.6,mw,,,,,iscgem,iscgem781004,2020-07-09T23:17:40.326Z,"Vanuatu",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-05T01:58:53.000Z,-0.773,-22.082,20,6.9,mw,,,,,iscgem,iscgem780929,2015-05-13T18:53:05.000Z,"central Mid-Atlantic Ridge",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-04T17:58:16.410Z,36.9486667,-115.7258333,6,4.34,ml,9,277,,0.44,ci,ci3322430,2016-01-29T01:20:11.820Z,"68km SW of Alamo, NV",earthquake,5.13,31.61,0.342,10,reviewed,ci,ci
+1971-08-04T11:36:45.040Z,20.1336667,-155.8278333,9.765,4.29,ml,23,150,,0.1,hv,hv19712896,2020-03-31T18:19:06.290Z,"Hawaii region, Hawaii",earthquake,0.98,2.35,0.05,0,reviewed,hv,hv
+1971-08-04T00:24:37.000Z,36.412,70.808,201.6,5.9,mw,,,,,iscgemsup,iscgemsup780896,2020-07-10T13:37:48.406Z,"Hindu Kush region, Afghanistan",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-02T13:00:02.000Z,41.424,143.473,44.7,5.5,mw,,,,,iscgem,iscgem780843,2015-05-13T18:53:05.000Z,"Hokkaido, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-02T09:01:11.000Z,1.612,126.489,35,5.6,mw,,,,,iscgem,iscgem780834,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-02T07:24:58.000Z,41.415,143.416,54.8,7.1,mw,,,,,iscgem,iscgem780829,2020-07-09T23:17:11.890Z,"Hokkaido, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-02T00:19:52.000Z,-5.515,152.532,11,5.9,mw,,,,,iscgem,iscgem780812,2015-05-13T18:53:05.000Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-01T18:52:39.670Z,18.3513333,-154.5241667,17.061,4.77,ml,24,317,,0.13,hv,hv19712865,2020-05-21T21:47:18.225Z,"Hawaii region, Hawaii",earthquake,2.79,16.51,0.22,4,reviewed,hv,hv
+1971-07-31T22:08:48.000Z,-32.513,-71.619,35,5.7,mw,,,,,iscgem,iscgem783067,2020-07-09T23:29:06.051Z,"offshore Valparaiso, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-30T13:24:00.000Z,-6.037,151.508,40,5.7,mw,,,,,iscgem,iscgem783013,2020-07-09T23:28:55.370Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-30T06:18:15.000Z,-4.61,152.966,55,5.8,mw,,,,,iscgem,iscgem783000,2020-07-09T23:28:43.150Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-30T03:58:02.000Z,1.739,127.146,30,5.6,mw,,,,,iscgem,iscgem782999,2020-07-09T23:28:32.267Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-29T22:18:19.000Z,51.938,173.257,25,5.6,mw,,,,,iscgem,iscgem782989,2019-05-21T00:15:14.003Z,"Near Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-28T10:17:32.000Z,-5.544,152.552,50,5.8,mw,,,,,iscgem,iscgem782918,2015-05-13T18:53:05.000Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-28T01:10:25.000Z,-5.127,152.864,24.5,6.5,mw,,,,,iscgem,iscgem782888,2020-07-09T23:28:17.195Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-27T23:35:23.000Z,-6.128,151.069,40,5.5,mw,,,,,iscgem,iscgem782884,2020-07-09T23:28:05.244Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-27T20:47:59.000Z,-5.283,152.88,40,6.6,mw,,,,,iscgem,iscgem782874,2020-07-09T23:27:45.678Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-27T18:08:41.000Z,-5.651,151.498,40,5.6,mw,,,,,iscgem,iscgem782863,2020-07-09T23:27:34.612Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-27T14:25:30.000Z,13.595,95.874,20,5.9,mw,,,,,iscgem,iscgem782847,2015-05-13T18:53:05.000Z,"Andaman Islands, India region",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-27T07:35:43.000Z,-5.813,151.604,40,5.8,mw,,,,,iscgem,iscgem782819,2020-07-09T23:27:22.273Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-27T02:02:49.000Z,-2.839,-77.322,120,7.4,mw,,,,,iscgem,iscgem782797,2020-07-09T23:26:56.562Z,"Peru-Ecuador border region",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-27T00:22:27.000Z,-5.35,152.256,40,5.7,mw,,,,,iscgem,iscgem782791,2020-07-09T23:26:45.295Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T19:15:33.000Z,-5.857,151.359,40,6,mw,,,,,iscgem,iscgem782768,2020-07-09T23:26:30.235Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T17:50:02.000Z,-5.246,153.072,40,5.9,mw,,,,,iscgem,iscgem782764,2015-05-13T18:53:05.000Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T16:45:02.000Z,-5.972,151.499,40,5.8,mw,,,,,iscgem,iscgem782757,2020-07-09T23:26:19.120Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T15:35:41.000Z,-5.662,151.41,40,6.3,mw,,,,,iscgem,iscgem782752,2020-07-09T23:26:06.173Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T12:05:01.000Z,-5.378,151.572,40,5.8,mw,,,,,iscgem,iscgem782735,2020-07-09T23:25:53.486Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T10:50:02.000Z,-6.045,151.936,40,5.5,mw,,,,,iscgem,iscgem782731,2015-05-13T18:53:05.000Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T09:37:13.000Z,-5.8,151.493,26,5.9,mw,,,,,iscgemsup,iscgemsup782728,2020-07-10T13:38:44.659Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T06:59:31.000Z,-5.577,152.226,40,6.1,mw,,,,,iscgem,iscgem782715,2020-07-09T23:25:37.081Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T04:19:16.000Z,-5.46,152.802,40,6,mw,,,,,iscgem,iscgem782703,2015-05-13T18:53:05.000Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T02:25:00.000Z,-5.116,152.282,40,7,mw,,,,,iscgemsup,iscgemsup782694,2020-07-10T13:38:20.465Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T02:02:45.000Z,-5.275,152.235,40,6.6,mw,,,,,iscgemsup,iscgemsup782691,2020-07-10T13:38:03.887Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T01:48:33.000Z,39.821,77.223,20,6,mw,,,,,iscgem,iscgem782687,2020-07-09T23:25:10.078Z,"southern Xinjiang, China",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-26T01:23:22.000Z,-4.817,153.172,40,8.1,mw,,,,,iscgem,iscgem782684,2020-07-09T23:24:50.787Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-25T15:41:23.000Z,52.115,172.953,30,6.4,mw,,,,,iscgem,iscgem782660,2019-05-21T00:13:03.713Z,"Near Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-25T14:14:27.000Z,-6.021,129.901,177.6,5.6,mw,,,,,iscgem,iscgem782658,2015-05-13T18:53:05.000Z,"Banda Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-25T12:51:45.000Z,12.439,123.691,40,6.4,mw,,,,,iscgem,iscgem782654,2020-07-09T23:24:29.259Z,"Masbate region, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-22T22:07:21.000Z,35.518,138.976,26.6,5.6,mw,,,,,iscgem,iscgem782574,2020-07-09T23:24:15.363Z,"eastern Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-21T12:03:41.100Z,51.946,-170.54,36,5.7,ms,,,,,ushis,ushis3165,2018-06-04T20:43:45.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,us
+1971-07-21T12:03:29.000Z,-5.87,154.174,40,5.8,mw,,,,,iscgem,iscgem782532,2015-05-13T18:53:05.000Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-20T21:25:56.000Z,-5.728,153.884,40,5.7,mw,,,,,iscgem,iscgem782508,2015-05-13T18:53:05.000Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-20T17:34:21.000Z,-19.712,177.438,25,5.9,mw,,,,,iscgem,iscgem782501,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-20T10:34:10.000Z,15.314,120.169,15,5.8,mw,,,,,iscgem,iscgem782490,2020-07-09T23:24:03.253Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-19T16:58:10.000Z,24.303,122.411,59.9,5.5,mw,,,,,iscgem,iscgem782468,2015-05-13T18:53:05.000Z,"Taiwan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-19T15:37:45.000Z,-5.567,150.562,10,6.3,mw,,,,,iscgem,iscgem782466,2020-07-09T23:23:44.809Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-19T14:48:43.000Z,-4.89,144.508,69.5,5.9,mw,,,,,iscgem,iscgem782464,2020-07-09T23:23:33.417Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-19T00:14:46.000Z,-5.754,153.868,35,7,mw,,,,,iscgem,iscgem782440,2020-07-09T23:23:05.576Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-18T14:31:19.000Z,-4.869,153.288,47.5,6.6,mw,,,,,iscgem,iscgem782428,2020-07-09T23:22:51.434Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-17T20:10:22.000Z,-21.525,-68.318,120.7,5.6,mw,,,,,iscgem,iscgem782405,2015-05-13T18:53:05.000Z,"Antofagasta, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-17T15:00:55.000Z,26.469,93.127,35,5.5,mw,,,,,iscgem,iscgem782391,2020-07-09T23:22:40.402Z,"Assam, India",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-17T05:32:44.000Z,7.045,94.66,135,6.2,mw,,,,,iscgem,iscgem782377,2015-05-13T18:53:05.000Z,"Nicobar Islands, India region",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-15T18:15:44.000Z,-25.223,178.581,580,5.5,mw,,,,,iscgem,iscgem782311,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-14T23:00:07.000Z,2.592,129.189,40,5.6,mw,,,,,iscgem,iscgem782253,2015-05-13T18:53:05.000Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-14T18:27:47.000Z,-5.203,153.232,40,6.5,mw,,,,,iscgem,iscgem782236,2020-07-09T23:22:24.247Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-14T18:27:06.000Z,-5.232,153.188,40,5.5,mw,,,,,iscgem,iscgem782235,2015-05-13T18:53:05.000Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-14T17:38:52.000Z,-5.284,153.233,40,6.1,mw,,,,,iscgem,iscgem782231,2015-05-13T18:53:05.000Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-14T12:30:17.000Z,-5.681,154.153,40,5.6,mw,,,,,iscgem,iscgem782204,2015-05-13T18:53:05.000Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-14T07:41:12.000Z,-5.675,153.885,40,6,mw,,,,,iscgem,iscgem782184,2020-04-16T21:03:10.139Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-14T07:37:22.000Z,-5.036,153.545,70,5.8,mw,,,,,iscgem,iscgem782183,2015-05-13T18:53:05.000Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-14T06:11:30.000Z,-5.524,153.85,40,8,mw,,,,,iscgem,iscgem782181,2020-07-09T23:22:01.238Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-12T15:49:12.000Z,51.923,173.191,23.2,5.5,mw,,,,,iscgem,iscgem782142,2015-05-13T18:53:05.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-11T09:51:39.000Z,-32.287,-71.778,35,6.4,mw,,,,,iscgem,iscgem782093,2020-07-09T23:21:47.908Z,"offshore Valparaiso, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-10T10:19:50.500Z,38,-115.0491667,0.01,4.57,ml,9,308,2.699,2.81,ci,ci3322756,2016-01-29T01:25:14.260Z,"64km NW of Caliente, NV",earthquake,99,31.61,0.157,10,reviewed,ci,ci
+1971-07-10T05:23:52.000Z,-6.086,154.578,50,5.9,mw,,,,,iscgem,iscgem782059,2020-07-09T23:21:34.670Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-09T09:49:45.000Z,-5.977,154.39,65,5.9,mw,,,,,iscgem,iscgem782022,2020-07-09T23:21:20.815Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-09T03:03:20.000Z,-32.601,-71.076,60.3,7.8,mw,,,,,iscgem,iscgem782010,2020-07-07T22:19:30.651Z,"Valparaiso, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-08T19:07:10.000Z,-7.071,129.653,105.5,6.2,mw,,,,,iscgem,iscgem782004,2015-05-13T18:53:05.000Z,"Kepulauan Babar, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-08T14:00:01.860Z,37.1101667,-116.0513333,0.5,5.01,ml,6,282,,0.75,ci,ci3322744,2016-01-29T01:15:14.460Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.152,11,reviewed,ci,ci
+1971-07-08T06:16:48.690Z,19.645,-156.0771667,7.747,4.02,ml,24,256,,0.12,hv,hv19712355,2020-03-31T16:47:46.740Z,"Hawaii region, Hawaii",earthquake,1.79,2.85,0.17,2,reviewed,hv,hv
+1971-07-06T19:22:39.280Z,37.7673333,-116.5858333,6,4.02,ml,7,302,,0.65,ci,ci3322734,2016-01-29T01:44:35.160Z,"66km ESE of Tonopah, NV",earthquake,4.67,31.61,0.173,10,reviewed,ci,ci
+1971-07-04T11:30:53.000Z,15.605,121.767,32.2,5.8,mw,,,,,iscgem,iscgem781910,2020-07-09T23:21:04.051Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-03T23:44:51.000Z,-24.136,-68.899,99.2,5.5,mw,,,,,iscgemsup,iscgemsup781892,2015-07-13T17:02:24.000Z,"Antofagasta, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-03T12:12:32.000Z,-23.434,-179.73,537.1,5.6,mw,,,,,iscgem,iscgem781878,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-03T08:10:05.000Z,-8.39,111.361,60.9,5.6,mw,,,,,iscgem,iscgem781869,2020-07-09T23:20:49.410Z,"Java, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-03T03:26:05.500Z,19.909,-153.8816667,36.475,4.8,ml,26,327,,0.12,hv,hv19712252,2020-03-31T16:47:32.060Z,"Hawaiian Islands region",earthquake,2.36,2.92,0.05,2,reviewed,hv,hv
+1971-07-02T05:34:28.000Z,12.36,123.899,25,6.1,mw,,,,,iscgem,iscgem781837,2020-07-09T23:20:33.423Z,"Masbate region, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-01T01:16:18.000Z,-6.358,130.159,141.4,5.9,mw,,,,,iscgemsup,iscgemsup781800,2015-07-13T17:02:24.000Z,"Banda Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-29T18:30:00.600Z,37.1768333,-116.2115,0.4,4.42,ml,15,257,,0.7,ci,ci3322646,2016-01-29T01:39:38.920Z,"57km ENE of Beatty, NV",nuclear explosion,99,31.61,0.308,10,reviewed,ci,ci
+1971-06-29T06:01:24.000Z,-24.148,-68.688,80,5.6,mw,,,,,iscgem,iscgem783913,2020-07-09T23:30:56.116Z,"Antofagasta, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-27T14:22:51.000Z,-25.23,178.556,580,5.5,mw,,,,,iscgem,iscgem783870,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-26T19:27:14.000Z,-5.141,96.852,13.7,6.4,mw,,,,,iscgem,iscgem783841,2015-05-13T18:53:05.000Z,"southwest of Sumatra, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-24T14:00:00.670Z,37.1466667,-116.0668333,0.5,4.65,ml,14,257,,0.53,ci,ci3322586,2016-01-29T01:20:05.740Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.3,10,reviewed,ci,ci
+1971-06-24T13:52:21.000Z,23.598,123.736,35,5.6,mw,,,,,iscgem,iscgem783767,2015-05-13T18:53:05.000Z,"southwestern Ryukyu Islands, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-23T15:30:00.290Z,37.022,-116.0226667,0.5,4.38,ml,12,253,,0.46,ci,ci3322576,2016-01-29T01:20:05.210Z,"66km E of Beatty, NV",nuclear explosion,99,31.61,0.154,9,reviewed,ci,ci
+1971-06-22T10:41:17.870Z,33.7151667,-117.4898333,1.63,4.22,ml,15,147,,0.54,ci,ci3322532,2016-01-29T01:30:06.830Z,"11km NE of Trabuco Canyon, CA",earthquake,1.23,2.45,0.082,8,reviewed,ci,ci
+1971-06-17T21:00:43.000Z,-25.375,-68.938,91.7,6.3,mw,,,,,iscgemsup,iscgemsup783548,2020-07-10T13:38:55.547Z,"Antofagasta, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-15T22:04:12.000Z,41.546,79.408,11.9,6,mw,,,,,iscgem,iscgem783484,2020-07-09T23:30:37.289Z,"Kyrgyzstan-Xinjiang border region",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-15T07:39:36.000Z,41.463,79.447,12.5,5.7,mw,,,,,iscgem,iscgem783466,2020-07-09T23:30:24.565Z,"Kyrgyzstan-Xinjiang border region",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-14T13:48:54.000Z,56.206,123.727,10,6,mw,,,,,iscgem,iscgem783447,2015-05-13T18:53:05.000Z,"Amurskaya Oblast', Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-13T04:05:52.000Z,36.294,140.986,50.8,5.7,mw,,,,,iscgem,iscgem783413,2020-07-09T23:30:10.584Z,"near the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-11T13:58:39.000Z,51.595,175.868,25,6.8,mw,,,,,iscgem,iscgem783358,2019-05-21T00:10:59.923Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-11T12:56:04.000Z,17.907,-69.825,35,6.5,mw,,,,,iscgem,iscgem783356,2020-07-09T23:29:53.082Z,"Dominican Republic region",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-11T01:32:59.000Z,-4.178,-80.715,35,5.8,mw,,,,,iscgem,iscgem783345,2020-07-09T23:29:41.053Z,"Peru-Ecuador border region",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-10T19:59:54.000Z,41.087,138.549,230.8,6,mw,,,,,iscgem,iscgem783334,2015-05-13T18:53:05.000Z,"eastern Sea of Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-10T17:28:35.000Z,52.15,-170.586,25,5.5,mw,,,,,iscgem,iscgem783330,2015-05-13T18:53:05.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-10T06:47:39.000Z,-10.875,-76.006,122.8,5.7,mw,,,,,iscgem,iscgem783305,2015-05-13T18:53:05.000Z,"central Peru",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-05T14:20:44.000Z,9.382,-84.245,28.6,5.7,mw,,,,,iscgem,iscgem783172,2020-07-09T23:29:28.782Z,"Costa Rica",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-05T09:20:52.000Z,6.031,126.068,35,5.7,mw,,,,,iscgem,iscgem783167,2020-07-09T23:29:17.312Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-05T01:38:13.000Z,9.304,92.497,36.8,5.5,mw,,,,,iscgem,iscgem783162,2015-05-13T18:53:05.000Z,"Nicobar Islands, India region",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-02T19:06:32.900Z,61.055,-151.147,29,5,mb,,,,,ushis,ushis3162,2018-06-04T20:43:45.000Z,"Southern Alaska",earthquake,,,,,reviewed,ushis,us
+1971-05-31T05:14:00.000Z,25.266,96.505,20,6.1,mw,,,,,iscgem,iscgem785173,2020-07-09T23:37:22.449Z,"Myanmar",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-31T03:46:52.000Z,72.241,1.21,15,5.8,mw,,,,,iscgem,iscgem785166,2015-05-13T18:53:05.000Z,"Norwegian Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-30T15:44:18.000Z,25.264,96.389,15,6.3,mw,,,,,iscgem,iscgem785149,2020-07-09T23:37:03.147Z,"Myanmar",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-29T08:52:44.000Z,31.327,131.413,35,6,mw,,,,,iscgem,iscgem785105,2020-07-09T23:36:51.340Z,"Kyushu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-28T14:12:07.000Z,14.683,-91.383,120.2,5.6,mw,,,,,iscgem,iscgem785082,2020-07-09T23:36:39.191Z,"Guatemala",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-26T06:13:16.000Z,31.329,131.445,51.1,6.2,mw,,,,,iscgem,iscgem784996,2020-07-09T23:36:24.955Z,"Kyushu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-26T02:41:47.000Z,35.613,58.307,15,5.7,mw,,,,,iscgem,iscgem784988,2020-07-09T23:36:13.476Z,"northeastern Iran",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-26T00:11:56.000Z,-24.835,-179.036,418.2,5.6,mw,,,,,iscgem,iscgem784983,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-25T13:00:19.000Z,31.377,131.407,30,6.1,mw,,,,,iscgem,iscgem784960,2020-07-09T23:36:00.760Z,"Kyushu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-25T10:02:53.270Z,33.106,-116.379,6,4.09,ml,6,120,,0.49,ci,ci3322917,2016-01-29T01:34:57.440Z,"17km S of Borrego Springs, CA",earthquake,1.53,31.61,0.08,11,reviewed,ci,ci
+1971-05-25T05:43:26.000Z,39.032,29.778,10,5.9,mw,,,,,iscgem,iscgem784936,2020-07-09T23:35:48.870Z,"western Turkey",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-22T20:03:31.000Z,32.299,92.1,10,5.6,mw,,,,,iscgem,iscgem784847,2020-07-09T23:35:33.252Z,"Xizang-Qinghai border region",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-22T16:44:02.000Z,38.934,40.653,10,6.9,mw,,,,,iscgem,iscgem784837,2020-07-09T23:35:04.108Z,"eastern Turkey",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-21T18:56:44.000Z,52.368,-173.088,27.5,5.6,mw,,,,,iscgem,iscgem784808,2019-05-21T00:09:22.748Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-20T02:35:36.000Z,52.164,-173.313,59.2,5.7,mw,,,,,iscgem,iscgem784752,2019-05-21T00:06:46.630Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-19T11:06:31.000Z,2.302,129.074,30,5.5,mw,,,,,iscgem,iscgem784725,2015-05-13T18:53:05.000Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-18T22:44:43.000Z,63.952,145.965,10,7,mw,,,,,iscgem,iscgem784704,2020-07-09T23:34:27.097Z,"Magadanskaya Oblast', Russia",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-18T06:12:36.000Z,-28.393,-68.778,85,6,mw,,,,,iscgem,iscgem784679,2020-07-09T23:34:14.457Z,"La Rioja, Argentina",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-18T00:46:18.000Z,-29.761,178.899,570,5.6,mw,,,,,iscgem,iscgem784669,2015-05-13T18:53:05.000Z,"Kermadec Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-17T11:04:08.000Z,-1.671,-77.66,171.6,6.7,mw,,,,,iscgem,iscgem784648,2020-07-09T23:33:52.128Z,"Ecuador",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-14T09:57:43.000Z,27.825,142.034,25,5.6,mw,,,,,iscgem,iscgem784463,2015-05-13T18:53:05.000Z,"Bonin Islands, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-14T06:29:06.450Z,19.9466667,-156.1903333,39.916,4.2,ml,27,205,,0.09,hv,hv19711236,2020-03-31T18:10:34.900Z,"Hawaii region, Hawaii",earthquake,1.45,2.2,0.12,4,reviewed,hv,hv
+1971-05-12T12:57:25.000Z,37.503,29.696,22.5,5.7,mw,,,,,iscgem,iscgem784361,2020-07-09T23:33:38.504Z,"western Turkey",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-12T10:10:37.000Z,37.552,29.678,23.5,5.6,mw,,,,,iscgem,iscgem784350,2020-07-09T23:33:24.998Z,"western Turkey",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-12T06:25:16.000Z,37.585,29.784,22.5,6.2,mw,,,,,iscgem,iscgem784339,2020-07-09T23:33:04.872Z,"western Turkey",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-12T02:00:02.830Z,18.9371667,-155.5533333,38.843,4.72,ml,19,253,,0.08,hv,hv19711210,2020-03-31T18:10:31.340Z,"Hawaii region, Hawaii",earthquake,1.74,2.25,0.02,2,reviewed,hv,hv
+1971-05-11T00:09:37.000Z,22.3,121.097,51.9,5.6,mw,,,,,iscgem,iscgem784309,2020-07-09T23:32:52.032Z,"Taiwan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-10T11:53:55.000Z,7.981,126.908,40.7,5.8,mw,,,,,iscgem,iscgem784296,2020-07-09T23:32:40.516Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-09T19:26:34.000Z,35.512,71.16,69.1,5.7,mw,,,,,iscgem,iscgem784267,2020-07-09T23:32:29.361Z,"Hindu Kush region, Afghanistan",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-09T18:35:08.000Z,-39.713,-105.284,15,5.5,mw,,,,,iscgem,iscgem784264,2015-05-13T18:53:05.000Z,"southern East Pacific Rise",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-09T18:00:58.000Z,-39.727,-105.148,15,5.6,mw,,,,,iscgem,iscgem784263,2015-05-13T18:53:05.000Z,"southern East Pacific Rise",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-09T08:25:00.000Z,-39.811,-104.833,15,6.6,mw,,,,,iscgem,iscgem784250,2015-05-13T18:53:05.000Z,"southern Pacific Ocean",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-08T00:49:46.000Z,-42.229,-71.793,156.2,6,mw,,,,,iscgem,iscgem784207,2015-05-13T18:53:05.000Z,"Chubut, Argentina",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-07T00:21:15.000Z,-2.751,119.69,26.8,6,mw,,,,,iscgem,iscgem784158,2020-07-09T23:32:12.519Z,"Sulawesi, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-05T02:56:24.970Z,32.0738333,-115.6531667,6,4.02,ml,5,271,,0.17,ci,ci3322805,2016-01-29T01:34:53.740Z,"49km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,3.22,31.61,0.116,6,reviewed,ci,ci
+1971-05-04T02:04:32.000Z,-6.564,105.407,45,6.4,mw,,,,,iscgem,iscgem784056,2020-07-09T23:31:59.996Z,"Sunda Strait, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-03T10:49:23.000Z,-11.151,161.882,10,6,mw,,,,,iscgem,iscgem784042,2020-07-09T23:31:48.027Z,"Solomon Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-03T00:33:23.000Z,30.739,84.443,10,5.5,mw,,,,,iscgem,iscgem784033,2020-07-09T23:31:36.019Z,"western Xizang",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-02T06:08:27.000Z,51.396,-177.318,24.2,7,mw,,,,,iscgem,iscgem784013,2020-07-09T23:31:07.136Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-01T14:15:36.000Z,-22.268,171.686,140,5.8,mw,,,,,iscgem,iscgem783990,2015-05-13T18:53:05.000Z,"southeast of the Loyalty Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-29T19:56:14.000Z,12.704,122.3,11.7,6,mw,,,,,iscgem,iscgem786031,2020-07-09T23:39:53.707Z,"Sibuyan Sea, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-29T00:46:45.000Z,18.061,120.679,30,5.5,mw,,,,,iscgem,iscgem786000,2020-07-09T23:39:40.058Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-28T15:32:02.000Z,22.917,101.101,10,6.4,mw,,,,,iscgem,iscgem785990,2020-07-09T23:39:13.368Z,"China-Laos border region",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-26T09:56:13.340Z,19.3798333,-155.263,23.346,4.48,ml,19,85,,0.07,hv,hv19710992,2020-03-31T17:35:07.300Z,"Hawaii region, Hawaii",earthquake,0.74,1.07,0.18,3,reviewed,hv,hv
+1971-04-26T04:19:16.000Z,-24.498,-175.988,10,5.7,mw,,,,,iscgem,iscgem785915,2015-05-13T18:53:05.000Z,"south of Tonga",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-20T16:13:22.000Z,4.714,126.517,75,5.7,mw,,,,,iscgem,iscgem785768,2015-05-13T18:53:05.000Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-20T14:12:47.000Z,-21.864,-68.949,93.9,5.7,mw,,,,,iscgem,iscgem785766,2020-07-09T23:39:02.699Z,"Antofagasta, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-18T17:41:26.000Z,-0.27,-91.659,10,5.8,mw,,,,,iscgem,iscgem785713,2015-05-13T18:53:05.000Z,"Galapagos Islands, Ecuador",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-17T01:41:21.000Z,-6.356,154.744,75,5.9,mw,,,,,iscgem,iscgem785672,2020-07-09T23:38:50.579Z,"Bougainville region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-16T12:58:31.700Z,36.8,-122.183,8,4.8,mb,,,,,ushis,ushis3158,2018-06-04T20:43:45.000Z,"offshore Central California",earthquake,,,,,reviewed,ushis,us
+1971-04-15T11:14:32.190Z,34.2563333,-118.5115,3.25,4.15,ml,13,146,0.3019,0.42,ci,ci3323057,2016-01-29T01:09:52.460Z,"2km SSW of Granada Hills, CA",earthquake,1.45,3.3,0.162,11,reviewed,ci,ci
+1971-04-14T11:38:40.000Z,27.565,-112.528,15,5.6,mw,,,,,iscgem,iscgem785599,2015-05-13T18:53:05.000Z,"Baja California Sur, Mexico",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-13T17:47:24.000Z,-17.808,-178.674,560,5.5,mw,,,,,iscgem,iscgem785584,2015-05-13T18:53:05.000Z,"Fiji region",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-13T05:57:38.000Z,-15.958,-173.785,100,5.5,mw,,,,,iscgem,iscgem785573,2015-05-13T18:53:05.000Z,"Tonga",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-12T19:03:24.000Z,28.363,55.737,15,6.1,mw,,,,,iscgem,iscgem785559,2020-07-09T23:38:33.836Z,"southern Iran",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-10T01:22:17.000Z,-21.189,-178.68,540,5.8,mw,,,,,iscgem,iscgem785493,2015-05-13T18:53:05.000Z,"Fiji region",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-09T06:08:32.000Z,44.461,139.019,17,5.6,mw,,,,,iscgem,iscgem785468,2015-05-13T18:53:05.000Z,"eastern Sea of Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-08T07:45:59.000Z,-4.33,102.285,75,7,mw,,,,,iscgemsup,iscgemsup785445,2020-07-10T13:39:09.723Z,"southern Sumatra, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-07T15:10:39.000Z,-32.437,-69.016,116.6,5.6,mw,,,,,iscgem,iscgem785430,2015-05-13T18:53:05.000Z,"Mendoza, Argentina",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-07T04:59:39.000Z,2.514,129.106,31.3,6.6,mw,,,,,iscgem,iscgem785417,2020-07-09T23:38:14.848Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-06T16:01:25.000Z,-23.801,179.279,545,5.5,mw,,,,,iscgem,iscgem785407,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-06T11:06:30.000Z,-22.089,-179.525,588.8,6.1,mw,,,,,iscgem,iscgem785392,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-06T00:17:13.000Z,42.383,145.095,34.8,5.5,mw,,,,,iscgem,iscgem785371,2015-05-13T18:53:05.000Z,"Hokkaido, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-05T09:04:43.000Z,53.175,-170.528,147.6,6.1,mw,,,,,iscgem,iscgem785351,2019-05-21T00:01:42.746Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-05T05:02:13.000Z,-0.237,124.735,35,5.7,mw,,,,,iscgem,iscgem785347,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-04T18:39:39.000Z,38.393,142.239,35,6.1,mw,,,,,iscgem,iscgem785331,2020-07-09T23:38:02.903Z,"near the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-04T10:15:37.000Z,-56.344,-122.622,15,6.5,mw,,,,,iscgem,iscgem785314,2015-05-13T18:53:05.000Z,"southern East Pacific Rise",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-03T04:49:02.000Z,32.158,95.042,15,5.8,mw,,,,,iscgem,iscgem785278,2020-07-09T23:37:47.408Z,"southern Qinghai, China",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-02T04:16:08.000Z,9.022,125.597,15,5.5,mw,,,,,iscgem,iscgem785235,2020-07-09T23:37:35.876Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-01T15:03:03.670Z,34.4031667,-118.4176667,11.67,4.09,ml,15,132,,0.39,ci,ci3322983,2016-01-29T01:44:22.510Z,"8km E of Santa Clarita, CA",earthquake,1.12,1.69,0.293,10,reviewed,ci,ci
+1971-03-31T14:52:22.420Z,34.2851667,-118.464,2.25,4.3,ml,15,143,,0.42,ci,ci3322956,2020-07-09T21:31:16.109Z,"2km W of San Fernando, CA",earthquake,1.5,2.04,0.306,11,reviewed,ci,ci
+1971-03-31T10:23:57.000Z,8.9,125.657,15,5.7,mw,,,,,iscgem,iscgem786767,2020-07-09T23:42:31.588Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-31T09:14:01.000Z,8.981,125.646,15,5.7,mw,,,,,iscgem,iscgem786765,2020-07-09T23:42:18.267Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-30T11:30:41.000Z,51.178,-177.41,22.4,5.6,mw,,,,,iscgem,iscgem786754,2019-05-21T00:00:00.201Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-28T17:56:58.000Z,-9.583,124.538,40,5.8,mw,,,,,iscgem,iscgem786716,2020-07-09T23:42:06.210Z,"Timor region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-28T08:23:22.000Z,11.941,95.112,20,6.3,mw,,,,,iscgem,iscgem786706,2015-05-13T18:53:05.000Z,"Andaman Islands, India region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-27T17:09:53.000Z,52.488,-174.473,139.1,5.9,mw,,,,,iscgemsup,iscgemsup786686,2019-05-20T23:57:39.581Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-26T17:35:22.000Z,60.2,-141.059,25,5.6,mw,,,,,iscgem,iscgem786658,2019-05-20T23:55:42.610Z,"Southern Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-25T22:54:09.550Z,34.3013333,-118.4933333,12.98,4.16,ml,13,145,,0.3,ci,ci3323276,2016-01-29T01:09:50.430Z,"3km NNE of Granada Hills, CA",earthquake,1.5,1.07,0.126,11,reviewed,ci,ci
+1971-03-25T16:19:52.000Z,38.467,142.257,45.9,5.7,mw,,,,,iscgem,iscgem786621,2015-05-13T18:53:05.000Z,"near the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-24T13:54:19.000Z,35.448,98.137,10,6,mw,,,,,iscgem,iscgem786580,2020-07-09T23:41:45.160Z,"southern Qinghai, China",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-24T02:26:13.000Z,-5.327,151.558,50,5.7,mw,,,,,iscgem,iscgem786569,2020-07-09T23:41:33.473Z,"New Britain region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-23T20:47:17.000Z,41.419,79.243,15,5.8,mw,,,,,iscgem,iscgem786560,2020-07-09T23:41:19.673Z,"Kyrgyzstan-Xinjiang border region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-23T09:52:11.000Z,41.52,79.325,15,6.2,mw,,,,,iscgem,iscgem786548,2020-07-09T23:40:46.962Z,"Kyrgyzstan-Xinjiang border region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-23T09:26:29.000Z,70.974,-6.978,15,6.2,mw,,,,,iscgem,iscgem786547,2015-05-13T18:53:05.000Z,"Jan Mayen Island region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-23T02:15:27.000Z,-23.024,-176.147,72.6,6.3,mw,,,,,iscgem,iscgem786541,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-22T10:40:04.000Z,37.292,142.109,30,5.5,mw,,,,,iscgem,iscgem786525,2015-05-13T18:53:05.000Z,"off the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-20T07:45:07.000Z,-1.328,-13.648,20,5.8,mw,,,,,iscgem,iscgem786489,2015-05-13T18:53:05.000Z,"north of Ascension Island",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-19T16:45:30.000Z,2.218,126.753,25,5.6,mw,,,,,iscgem,iscgem786476,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-19T06:12:32.000Z,16.954,-95.288,81.6,5.5,mw,,,,,iscgem,iscgem786466,2020-07-09T23:40:33.178Z,"Oaxaca, Mexico",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-17T03:14:03.000Z,-3.24,139.84,55,5.7,mw,,,,,iscgem,iscgem786409,2020-07-09T23:40:19.668Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-16T20:35:21.000Z,8.417,127.216,58.5,6.1,mw,,,,,iscgem,iscgem786403,2015-05-13T18:53:05.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-16T12:32:31.000Z,-10.968,163.705,20,6.4,mw,,,,,iscgem,iscgem786399,2015-05-13T18:53:05.000Z,"Solomon Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-15T20:51:49.000Z,-15.545,167.632,125,5.6,mw,,,,,iscgem,iscgem786391,2020-07-09T23:40:09.407Z,"Vanuatu",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-15T05:35:44.000Z,41.732,143.881,33.5,5.7,mw,,,,,iscgem,iscgem786381,2015-05-13T18:53:05.000Z,"Hokkaido, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-13T23:51:34.000Z,50.396,-130.358,17.1,6.2,mw,,,,,iscgem,iscgem786349,2015-05-13T18:53:05.000Z,"Vancouver Island, Canada region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-13T19:12:25.000Z,-5.775,145.393,111,6.6,mw,,,,,iscgemsup,iscgemsup786345,2020-07-10T13:39:32.632Z,"eastern New Guinea region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-13T15:48:00.000Z,-18.282,173.655,25,6.1,mw,,,,,iscgem,iscgem786342,2015-05-13T18:53:05.000Z,"Fiji region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-09T15:35:16.200Z,36.8,-122.145,8,4.8,mb,,,,,ushis,ushis3152,2018-06-04T20:43:45.000Z,"offshore Central California",earthquake,,,,,reviewed,ushis,us
+1971-03-08T23:08:07.640Z,35.661,-118.3708333,3.31,4.2,ml,14,92,,0.38,ci,ci3323232,2016-01-29T01:29:56.260Z,"9km ESE of Wofford Heights, CA",earthquake,0.98,1.65,0.189,11,reviewed,ci,ci
+1971-03-07T01:33:40.010Z,34.3461667,-118.4305,2.39,4.2,ml,15,138,,0.47,ci,ci3323221,2018-06-04T20:43:45.000Z,"7km N of Pacoima, CA",earthquake,1.44,3.53,0.261,11,reviewed,ci,ci
+1971-03-04T00:28:39.000Z,30.461,138.498,450.6,5.9,mw,,,,,iscgem,iscgem786141,2015-05-13T18:53:05.000Z,"Izu Islands, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-03T21:54:10.000Z,48.241,153.104,123.5,5.8,mw,,,,,iscgem,iscgem786137,2015-05-13T18:53:05.000Z,"Kuril Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-03T12:05:15.690Z,35.6595,-118.355,0.92,4.09,ml,13,92,,0.33,ci,ci3323213,2016-01-29T01:44:16.310Z,"11km ESE of Wofford Heights, CA",earthquake,0.87,1.46,0.165,11,reviewed,ci,ci
+1971-02-27T00:31:39.900Z,40.4,-124.8,33,5.1,ms,,,,,ushis,ushis3150,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,us
+1971-02-26T04:55:51.000Z,-10.452,161.423,98.4,6,mw,,,,,iscgem,iscgem787722,2020-07-09T23:45:42.955Z,"Solomon Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-25T22:14:19.000Z,3.274,95.86,30,5.7,mw,,,,,iscgem,iscgem787713,2020-07-09T23:45:28.652Z,"off the west coast of northern Sumatra",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-25T19:27:52.000Z,37.159,138.374,19.2,5.6,mw,,,,,iscgem,iscgem787709,2020-07-09T23:45:13.605Z,"near the west coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-25T14:36:02.000Z,5.89,126.715,85,5.8,mw,,,,,iscgem,iscgem787701,2015-05-13T18:53:05.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-23T19:41:25.000Z,39.639,27.379,10,5.6,mw,,,,,iscgem,iscgem787639,2020-07-09T23:45:00.239Z,"western Turkey",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-23T00:07:41.080Z,33.4015,-116.6378333,30.87,4.19,ml,8,200,,0.42,ci,ci3323354,2016-01-29T01:29:52.610Z,"13km N of Warner Springs, CA",earthquake,3.83,1.69,0.142,10,reviewed,ci,ci
+1971-02-21T10:35:22.000Z,-23.804,-67.151,183.7,6.9,mw,,,,,iscgem,iscgem787582,2020-07-09T23:44:31.433Z,"Jujuy, Argentina",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-21T07:15:11.480Z,34.3455,-118.4468333,14.18,4.25,ml,14,139,,0.4,ci,ci3323346,2018-06-04T20:43:45.000Z,"7km N of Pacoima, CA",earthquake,1.09,1.6,0.163,11,reviewed,ci,ci
+1971-02-21T05:50:52.300Z,34.3833333,-118.4336667,7.94,4.43,ml,15,136,,0.45,ci,ci3323345,2018-06-04T20:43:45.000Z,"8km ESE of Santa Clarita, CA",earthquake,1.35,2.08,0.252,11,reviewed,ci,ci
+1971-02-18T07:47:30.000Z,-36.775,-73.276,28.4,5.7,mw,,,,,iscgem,iscgem787485,2020-07-09T23:44:20.098Z,"offshore Bio-Bio, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-16T14:26:10.000Z,24.112,122.238,30,5.8,mw,,,,,iscgem,iscgem787446,2015-05-13T18:53:05.000Z,"Taiwan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-15T07:51:03.000Z,-25.204,178.405,587.2,6.5,mw,,,,,iscgem,iscgem787413,2015-05-13T18:53:05.000Z,"south of the Fiji Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-14T16:27:35.000Z,36.565,55.762,18.5,5.8,mw,,,,,iscgem,iscgem787393,2020-07-09T23:44:05.134Z,"northern Iran",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-13T22:09:41.000Z,-6.127,146.248,110,5.7,mw,,,,,iscgem,iscgem787364,2020-07-09T23:43:54.405Z,"eastern New Guinea region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-12T23:33:19.000Z,1.393,121.187,65,5.5,mw,,,,,iscgem,iscgem787343,2020-07-09T23:43:41.371Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-12T19:06:56.000Z,-6.369,146.457,128.4,5.8,mw,,,,,iscgem,iscgem787339,2020-07-09T23:43:30.720Z,"eastern New Guinea region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-11T12:55:51.600Z,50.96,-177.222,20,5.2,ms,,,,,ushis,ushis3147,2018-06-04T20:43:45.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,ushis,us
+1971-02-10T18:54:41.240Z,34.426,-118.436,0,4.05,ml,0,129.6,,0.267,ci,ci3347717,2016-01-29T01:38:20.480Z,"6km E of Santa Clarita, CA",earthquake,,2.051,,11,reviewed,ci,ci
+1971-02-10T17:38:54.970Z,34.3743333,-118.3623333,12.2,4.04,ml,13,130,,0.33,ci,ci3347716,2016-01-29T01:44:10.160Z,"11km N of Lake View Terrace, CA",earthquake,1.19,1.74,0.13,11,reviewed,ci,ci
+1971-02-10T14:35:26.180Z,34.3468333,-118.4763333,1.81,4.15,ml,15,139,,0.45,ci,ci3347710,2016-01-29T01:14:51.060Z,"8km NNW of Pacoima, CA",earthquake,1.74,3.45,0.31,10,reviewed,ci,ci
+1971-02-10T13:49:53.640Z,34.3471667,-118.4398333,12.62,4.25,ml,15,139,,0.37,ci,ci3347709,2016-01-29T01:14:50.530Z,"7km N of Pacoima, CA",earthquake,1.09,1.62,0.257,10,reviewed,ci,ci
+1971-02-10T11:31:33.930Z,34.4061667,-118.3941667,0.29,4.22,ml,10,129,,0.42,ci,ci3347703,2016-01-29T01:39:20.330Z,"10km E of Santa Clarita, CA",earthquake,1.29,3.04,0.188,11,reviewed,ci,ci
+1971-02-10T05:18:07.060Z,34.403,-118.4211667,9.84,4.4,ml,15,133,,0.45,ci,ci3347694,2018-06-04T20:43:45.000Z,"8km E of Santa Clarita, CA",earthquake,1.23,1.89,0.16,11,reviewed,ci,ci
+1971-02-10T05:06:35.960Z,34.3761667,-118.3111667,10.86,4.29,ml,15,122,,0.47,ci,ci3347693,2016-01-29T01:34:33.960Z,"12km NNE of Lake View Terrace, CA",earthquake,1.18,2.1,0.122,11,reviewed,ci,ci
+1971-02-09T16:19:27.720Z,34.3218333,-118.46,10.38,4.08,ml,15,140,,0.36,ci,ci3347654,2016-01-29T01:29:39.160Z,"5km NNW of Pacoima, CA",earthquake,1.25,1.8,0.242,10,reviewed,ci,ci
+1971-02-09T15:58:20.880Z,34.3501667,-118.3388333,13.91,4.59,ml,14,130,,0.4,ci,ci3347652,2018-06-04T20:43:45.000Z,"9km NNE of Lake View Terrace, CA",earthquake,1.26,1.04,0.137,7,reviewed,ci,ci
+1971-02-09T14:43:47.720Z,34.3136667,-118.4276667,19,4.38,ml,11,151,,0.45,ci,ci3347629,2018-06-04T20:43:45.000Z,"4km NNE of Pacoima, CA",earthquake,2.35,2.78,0.262,7,reviewed,ci,ci
+1971-02-09T14:40:17.110Z,34.4,-118.455,6.13,4.08,ml,6,170,,0.46,ci,ci3342533,2016-01-29T01:44:04.030Z,"5km ESE of Santa Clarita, CA",earthquake,4.71,6.62,0.153,4,reviewed,ci,ci
+1971-02-09T14:34:39.350Z,34.3096667,-118.414,2.79,4.83,ml,6,150,,0.34,ci,ci3342514,2018-06-04T20:43:45.000Z,"4km NE of Pacoima, CA",earthquake,2.83,2.45,0.319,7,reviewed,ci,ci
+1971-02-09T14:22:17.040Z,34.3528333,-118.3158333,7.57,4.15,ml,7,129,,0.49,ci,ci3342486,2016-01-29T01:09:34.670Z,"10km NNE of Lake View Terrace, CA",earthquake,2.33,3.03,0.173,7,reviewed,ci,ci
+1971-02-09T14:11:31.380Z,34.274,-118.321,6,4,mh,0,190.7,0.8327,0.29,ci,ci3360257,2016-01-29T01:43:19.880Z,"2km NW of Sunland, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:10:29.040Z,34.416,-118.37,6,5.3,mh,0,360,0.3136,0,ci,ci3360199,2018-06-04T20:43:45.000Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:10:21.330Z,34.2463333,-118.3961667,14.58,4.64,ml,4,164,0.2105,0.06,ci,ci3342443,2018-06-04T20:43:45.000Z,"4km SW of Lake View Terrace, CA",earthquake,1.24,1.5,0.122,7,reviewed,ci,ci
+1971-02-09T14:08:53.720Z,34.416,-118.37,6,4.6,mh,0,205.2,0.3136,0.523,ci,ci3360203,2018-06-04T20:43:45.000Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:08:34.040Z,34.416,-118.37,6,4.5,mh,0,360,0.3136,0,ci,ci3360204,2018-06-04T20:43:45.000Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:08:03.410Z,34.416,-118.37,6,4.2,mh,0,360,0.3136,0.268,ci,ci3360206,2016-01-29T01:13:50.450Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:07:59.240Z,34.416,-118.37,6,4,mh,0,360,0.3136,0,ci,ci3360207,2021-02-18T18:59:06.208Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:07:43.970Z,34.416,-118.37,6,4.5,mh,0,360,0.3136,0.154,ci,ci3360209,2018-06-04T20:43:45.000Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:07:10.440Z,34.416,-118.37,6,4,mh,0,360,0.3136,0,ci,ci3360212,2016-01-29T01:18:57.070Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:05:52.150Z,34.416,-118.37,6,4.1,mh,0,328.5,0.3136,0.034,ci,ci3360220,2016-01-29T01:38:24.260Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:05:41.340Z,34.416,-118.37,6,4.1,mh,0,360,0.3136,0,ci,ci3360221,2016-01-29T01:33:48.200Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:04:46.000Z,34.4111667,-118.4006667,6,4.2,mh,,,,,ci,ci12315527,2016-01-29T01:29:37.670Z,"10km E of Santa Clarita, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:04:44.080Z,34.416,-118.37,6,4.1,mh,0,360,0.3136,0,ci,ci3360227,2016-01-29T01:33:48.650Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:04:42.340Z,34.416,-118.37,6,4.2,mh,0,360,0.3136,0,ci,ci3360226,2016-01-29T01:18:58.400Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:04:37.640Z,34.416,-118.37,6,4.1,mh,0,360,0.3136,0,ci,ci3360230,2016-01-29T01:13:51.360Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:04:35.980Z,34.416,-118.37,6,4.2,mh,0,205.2,0.3136,0.867,ci,ci3360232,2016-01-29T01:18:58.840Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:04:07.440Z,34.416,-118.37,6,4.1,mh,0,360,0.3136,0,ci,ci3360235,2016-01-29T01:08:52.700Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:03:43.340Z,34.416,-118.37,6,4.1,mh,0,360,0.3136,0,ci,ci3360236,2016-01-29T01:13:52.310Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:03:25.080Z,34.416,-118.37,6,4.4,mh,0,360,0.3136,0,ci,ci3360238,2016-01-29T01:24:02.390Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:02:45.740Z,34.416,-118.37,6,5.8,mh,0,360,0.3136,0.005,ci,ci3360245,2021-02-18T18:59:12.977Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:02:29.940Z,34.416,-118.37,6,4.7,mh,0,360,0.3136,0,ci,ci3360246,2018-06-04T20:43:45.000Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:02:03.000Z,34.4111667,-118.4006667,6,4.1,mh,,,,,ci,ci12315507,2016-01-29T01:09:34.130Z,"10km E of Santa Clarita, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:01:59.080Z,34.416,-118.37,6,4.1,mh,0,360,0.3136,0,ci,ci3360250,2016-01-29T01:43:18.550Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:01:54.440Z,34.416,-118.37,6,4.2,mh,0,360,0.3136,0,ci,ci3360251,2018-07-11T23:46:35.744Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:01:53.040Z,34.416,-118.37,6,4.5,mh,0,360,0.3136,0,ci,ci3360252,2018-07-11T23:44:24.323Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:01:40.080Z,34.416,-118.37,6,4.1,mh,0,360,0.3136,0,ci,ci3360253,2016-01-29T01:33:50.350Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:01:36.840Z,34.416,-118.37,6,4.2,mh,0,360,0.3136,0,ci,ci3360254,2021-02-18T18:59:21.975Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:01:12.450Z,34.416,-118.37,6,5.8,mh,0,328.5,0.3136,0.324,ci,ci3360255,2020-07-09T21:38:09.519Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
+1971-02-09T14:00:41.920Z,34.416,-118.37,8.95,6.6,mw,0,123.4,,0.249,ci,ci3347678,2021-02-19T19:35:49.951Z,"10km SSW of Agua Dulce, CA",earthquake,,6.837,,0,reviewed,ci,ci
+1971-02-08T21:04:20.000Z,-63.398,-61.377,12.5,7,mw,,,,,iscgem,iscgem787022,2015-05-13T18:53:05.000Z,"South Shetland Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-07T02:53:09.000Z,51.162,-176.975,25,5.6,mw,,,,,iscgem,iscgem786957,2015-05-13T18:53:05.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-07T02:42:03.000Z,51.145,-177.086,25,5.9,mw,,,,,iscgem,iscgem786955,2019-05-20T23:52:09.562Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-07T02:29:30.000Z,51.409,-176.974,28.9,7,mw,,,,,iscgem,iscgem786954,2020-07-09T23:43:05.601Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-06T10:43:02.000Z,47.019,154.145,25,5.8,mw,,,,,iscgemsup,iscgemsup786932,2015-07-13T17:02:24.000Z,"Kuril Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-06T08:17:48.000Z,2.236,126.828,20,5.9,mw,,,,,iscgem,iscgem786928,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-06T01:30:32.000Z,-49.935,-115.51,15,5.9,mw,,,,,iscgem,iscgem786923,2015-05-13T18:53:05.000Z,"southern East Pacific Rise",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-05T07:33:27.000Z,51.62,-131.133,15,5.9,mw,,,,,iscgem,iscgem786908,2015-05-13T18:53:05.000Z,"Haida Gwaii Region, Canada",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-04T15:33:29.000Z,0.653,98.711,30,7,mw,,,,,iscgem,iscgem786889,2020-07-09T23:42:43.500Z,"Nias region, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-03T19:48:10.000Z,17.914,147.046,40,5.6,mw,,,,,iscgem,iscgem786869,2015-05-13T18:53:05.000Z,"Mariana Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-02T15:18:22.000Z,-21.258,-175.433,85,5.6,mw,,,,,iscgem,iscgem786840,2015-05-13T18:53:05.000Z,"Tonga",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-01T05:19:24.000Z,51.557,-173.044,35,6.1,mw,,,,,iscgem,iscgem786793,2019-05-20T23:48:09.157Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-29T21:58:05.000Z,51.604,151.009,535.6,6.9,mw,,,,,iscgem,iscgem788703,2015-05-13T18:53:05.000Z,"Sea of Okhotsk",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-27T16:05:51.000Z,1.645,126.416,105,5.6,mw,,,,,iscgem,iscgem788618,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-26T19:32:07.000Z,51.727,-174.979,35,5.7,mw,,,,,iscgem,iscgem788596,2019-05-20T23:45:29.238Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-25T16:08:16.000Z,51.483,-177.846,35,6.4,mw,,,,,iscgem,iscgem788547,2019-05-20T23:38:33.398Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-25T00:18:25.000Z,-9.701,151.421,20,6.2,mw,,,,,iscgem,iscgem788524,2020-07-09T23:49:40.613Z,"D'Entrecasteaux Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-21T17:19:40.000Z,-7.893,122.684,241.1,5.6,mw,,,,,iscgem,iscgem788437,2020-07-09T23:49:29.801Z,"Flores Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-21T13:23:10.000Z,-17.229,-69.226,173.2,5.5,mw,,,,,iscgem,iscgem788434,2015-05-13T18:53:04.000Z,"La Paz, Bolivia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-21T06:17:30.000Z,-6.827,147.605,45,5.7,mw,,,,,iscgem,iscgem788422,2020-07-09T23:49:18.701Z,"eastern New Guinea region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-20T04:45:00.000Z,8.759,-79.18,20,5.8,mw,,,,,iscgem,iscgem788393,2020-07-09T23:49:07.072Z,"Panama",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-19T03:16:56.000Z,23.757,-108.692,35,6,mw,,,,,iscgem,iscgem788372,2015-05-13T18:53:04.000Z,"Gulf of California",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-18T05:52:20.000Z,1.054,125.855,17.5,5.5,mw,,,,,iscgem,iscgem788348,2015-05-13T18:53:04.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-18T05:02:10.000Z,41.611,142.75,45,5.5,mw,,,,,iscgem,iscgem788345,2015-05-13T18:53:04.000Z,"Hokkaido, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-18T00:03:30.000Z,1.058,125.843,10,5.7,mw,,,,,iscgem,iscgem788340,2015-05-13T18:53:04.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-16T12:39:51.000Z,-56.037,-27.657,70,5.9,mw,,,,,iscgemsup,iscgemsup788303,2015-07-13T17:02:24.000Z,"South Sandwich Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-14T18:07:23.000Z,-3.035,139.737,30,5.9,mw,,,,,iscgem,iscgem788259,2020-07-09T23:48:55.559Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-13T10:22:48.000Z,-3.092,139.575,30,5.9,mw,,,,,iscgem,iscgem788215,2020-07-09T23:48:44.562Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-12T14:57:12.000Z,-3.39,139.993,30,5.9,mw,,,,,iscgem,iscgem788180,2020-07-09T23:48:32.709Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-12T14:42:13.000Z,9.829,138.284,10,5.8,mw,,,,,iscgem,iscgem788179,2015-05-13T18:53:04.000Z,"State of Yap, Federated States of Micronesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T23:24:48.000Z,-3.298,139.834,30,5.7,mw,,,,,iscgem,iscgem788105,2020-07-09T23:48:19.294Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T22:14:39.000Z,-3.261,139.993,30,6,mw,,,,,iscgem,iscgem788103,2020-07-09T23:48:04.278Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T19:34:22.000Z,-3.106,139.594,30,5.9,mw,,,,,iscgem,iscgem788088,2020-07-09T23:47:52.785Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T19:13:38.000Z,-3.281,139.89,30,5.8,mw,,,,,iscgem,iscgem788086,2020-07-09T23:47:41.830Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T16:38:38.000Z,-3.5,140.095,30,6.2,mw,,,,,iscgem,iscgem788078,2020-07-09T23:47:31.177Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T16:07:48.000Z,-3.2,139.784,30,6,mw,,,,,iscgem,iscgem788076,2020-07-09T23:47:19.149Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T14:29:58.000Z,-3.337,139.757,30,6,mw,,,,,iscgem,iscgem788067,2020-07-09T23:47:08.135Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T10:45:07.000Z,-3.078,139.674,30,6.6,mw,,,,,iscgem,iscgem788053,2020-07-09T23:46:54.292Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T07:17:05.000Z,-3.184,139.722,30,7.7,mw,,,,,iscgem,iscgem788036,2020-07-09T23:46:34.398Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-08T14:45:31.000Z,47.341,154.247,35,6.2,mw,,,,,iscgem,iscgem787995,2015-05-13T18:53:04.000Z,"Kuril Islands",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-07T02:49:59.000Z,52.282,-173.241,89.9,5.8,mw,,,,,iscgem,iscgem787968,2019-05-20T23:36:15.938Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-06T06:04:22.000Z,36.374,141.231,35,5.6,mw,,,,,iscgem,iscgem787945,2020-07-09T23:46:21.885Z,"near the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-04T21:08:55.000Z,34.53,137.151,42.1,5.8,mw,,,,,iscgem,iscgem787912,2020-07-09T23:46:09.701Z,"near the south coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-04T07:39:07.000Z,35.1,-106.6,,4.7,mb,,,,,ushis,ushis3126,2020-04-16T21:05:13.387Z,"Albuquerque urban area, New Mexico",earthquake,,,,,reviewed,ushis,us
+1971-01-04T03:59:12.000Z,-29.644,-111.835,10,5.7,mw,,,,,iscgem,iscgem787894,2015-05-13T18:53:04.000Z,"Easter Island region",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-03T17:35:41.000Z,-55.918,-2.668,15,7.1,mw,,,,,iscgem,iscgem787884,2015-05-13T18:53:04.000Z,"southern Mid-Atlantic Ridge",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-01T07:58:03.000Z,-4.19,141.183,35,6,mw,,,,,iscgem,iscgem787816,2020-07-09T23:45:57.285Z,"New Guinea, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem

@@ -1,0 +1,185 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/libcomcat-2.0.7.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/libcomcat-2.0.7.dist-info/LICENSE.md",
+      "path_type": "hardlink",
+      "sha256": "e91ff7749cb06e4b09c5c982aeb46130111e2c68e0fa0c811d5e169dda5b60f5",
+      "size_in_bytes": 2263
+    },
+    {
+      "_path": "site-packages/libcomcat-2.0.7.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "86ae4a8cb7d0b5be9d0b49600f73de26261241a52181880851757be9d8303fd0",
+      "size_in_bytes": 237
+    },
+    {
+      "_path": "site-packages/libcomcat-2.0.7.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "95a01d961be84cdca5ef118221370fbbadd28e6b89f231b166efcfc2725e37c9",
+      "size_in_bytes": 3946
+    },
+    {
+      "_path": "site-packages/libcomcat-2.0.7.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/libcomcat-2.0.7.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "site-packages/libcomcat-2.0.7.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "2b8102beb4bd110148ce3a5204ce6177c9d7c747d1c55e642df76d710d79b589",
+      "size_in_bytes": 105
+    },
+    {
+      "_path": "site-packages/libcomcat-2.0.7.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "9d8faa84295aaef1977d18fbc7ececf0caa5689ae9194ae946a45db10dd95239",
+      "size_in_bytes": 296
+    },
+    {
+      "_path": "site-packages/libcomcat-2.0.7.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "41349c9e61b8b9224fc980bfef1f284eea3414912e67fdc28c62a77cb6ecbe1a",
+      "size_in_bytes": 10
+    },
+    {
+      "_path": "site-packages/libcomcat/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "24e978d4dbe230dfaa0d5d19f193e684d231be0c9ab861891dd07803ef0c86a3",
+      "size_in_bytes": 93
+    },
+    {
+      "_path": "site-packages/libcomcat/_version.py",
+      "path_type": "hardlink",
+      "sha256": "5694e076fcfa41d63644d1687b9f11b400b32a4a1533059bec1e897c09b62f6a",
+      "size_in_bytes": 497
+    },
+    {
+      "_path": "site-packages/libcomcat/bin/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/libcomcat/bin/findid.py",
+      "path_type": "hardlink",
+      "sha256": "dda4ea56c123aa0b26e475981bb6ba285c9d5af026c1e85b6a3eb79552356274",
+      "size_in_bytes": 7957
+    },
+    {
+      "_path": "site-packages/libcomcat/bin/getcsv.py",
+      "path_type": "hardlink",
+      "sha256": "c4fe3b8d7352a226ec6ad480782eb15c9b1dff87ff4d8c9c3aa575ec672a3f43",
+      "size_in_bytes": 19989
+    },
+    {
+      "_path": "site-packages/libcomcat/bin/geteventhist.py",
+      "path_type": "hardlink",
+      "sha256": "93b92af3b3599995116fe765820dab3e9599936fb4efee7a472e5a35734ef4d8",
+      "size_in_bytes": 17605
+    },
+    {
+      "_path": "site-packages/libcomcat/bin/getmags.py",
+      "path_type": "hardlink",
+      "sha256": "1a76276b7b16f82c266af6a62f226348cce0917e0057ee9d12706fce2360c732",
+      "size_in_bytes": 8845
+    },
+    {
+      "_path": "site-packages/libcomcat/bin/getpager.py",
+      "path_type": "hardlink",
+      "sha256": "20041da2791d37a3257a7602d610d8062ae50533d6eaba1a5486fa2173e37725",
+      "size_in_bytes": 11005
+    },
+    {
+      "_path": "site-packages/libcomcat/bin/getphases.py",
+      "path_type": "hardlink",
+      "sha256": "a5c9381ac842153e120f9087cb5a043f0dd3ee4a2fd86573cdcc13d507adbe4c",
+      "size_in_bytes": 12360
+    },
+    {
+      "_path": "site-packages/libcomcat/bin/getproduct.py",
+      "path_type": "hardlink",
+      "sha256": "6e3b76475207757fdeddcfe4704d125ca883a3a86817c1ef976ac2162ede3004",
+      "size_in_bytes": 16144
+    },
+    {
+      "_path": "site-packages/libcomcat/classes.py",
+      "path_type": "hardlink",
+      "sha256": "ddaab7f830d4448fb74c11aa394a9609359327b20e81675ba771079d9d7ef906",
+      "size_in_bytes": 41107
+    },
+    {
+      "_path": "site-packages/libcomcat/data/ne_50m_admin_0_countries.cpg",
+      "path_type": "hardlink",
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/libcomcat/data/ne_50m_admin_0_countries.dbf",
+      "path_type": "hardlink",
+      "sha256": "06171be8324d83b989d009e18e1c2d48474debef24023595c5ade937cf7845fd",
+      "size_in_bytes": 546979
+    },
+    {
+      "_path": "site-packages/libcomcat/data/ne_50m_admin_0_countries.prj",
+      "path_type": "hardlink",
+      "sha256": "98aaf3d1c0ecadf1a424a4536de261c3daf4e373697cb86c40c43b989daf52eb",
+      "size_in_bytes": 143
+    },
+    {
+      "_path": "site-packages/libcomcat/data/ne_50m_admin_0_countries.shp",
+      "path_type": "hardlink",
+      "sha256": "be7c2385e98180bc87288a4109388d3e38c4fff038de4f24d60546503f689ea2",
+      "size_in_bytes": 1612740
+    },
+    {
+      "_path": "site-packages/libcomcat/data/ne_50m_admin_0_countries.shx",
+      "path_type": "hardlink",
+      "sha256": "04081330b6a0a1e7c55f6c9cdcd9ebee862776fdf5900035d6f2a6bfa485f3b1",
+      "size_in_bytes": 2028
+    },
+    {
+      "_path": "site-packages/libcomcat/dataframes.py",
+      "path_type": "hardlink",
+      "sha256": "59387fb93239f44b9e1bd6b753a100f25665d66623595926d15e3ce40cc52bd8",
+      "size_in_bytes": 76019
+    },
+    {
+      "_path": "site-packages/libcomcat/exceptions.py",
+      "path_type": "hardlink",
+      "sha256": "27cdae560e55c73861a6d1b9afe27b98c5f3f1bec38090f25206b33d82e9530a",
+      "size_in_bytes": 864
+    },
+    {
+      "_path": "site-packages/libcomcat/logging.py",
+      "path_type": "hardlink",
+      "sha256": "ab3b08ce30aea73026c0b988578905aa6ab27c15a0b5a28c8e8b46cda485a1c0",
+      "size_in_bytes": 2291
+    },
+    {
+      "_path": "site-packages/libcomcat/search.py",
+      "path_type": "hardlink",
+      "sha256": "f75aa1b66f0e6cd0b07d442de67ade93b1070f2194ea50118977e9720155abcd",
+      "size_in_bytes": 24038
+    },
+    {
+      "_path": "site-packages/libcomcat/utils.py",
+      "path_type": "hardlink",
+      "sha256": "e9aa247a500144ae09b42be6671c12a17c53338d0071810c4a80a6545afa82ec",
+      "size_in_bytes": 12406
+    }
+  ],
+  "paths_version": 1
+}
