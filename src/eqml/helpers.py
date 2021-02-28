@@ -1,6 +1,9 @@
 import logging
 import sys
 
+from autologging import TRACE
+
+
 def configure_logger(name: str = None, level: str = None) -> None:
     """Configures logging.
 
