@@ -2,10 +2,10 @@
 #                            ___
 #                           /\_ \           CS-C3240: Machine Learning
 #     __     __     ___ ___ \//\ \          Student Project
-#   /"__`\ /"__`\ /" __` __`\ \ \ \         Predicting Earthquake Magnitudes
+#   /"__`\ /"__`\ /" __` __`\ \ \ \         Earthquake Probability Prediction
 #  /\  __//\ \L\ \/\ \/\ \/\ \ \_\ \_
-#  \ \____\ \___, \ \_\ \_\ \_\/\____\      Copyright (c) 2021 FarSimple Oy
-#   \/____/\/___/\ \/_/\/_/\/_/\/____/      All rights reserved.
+#  \ \____\ \___, \ \_\ \_\ \_\/\____\
+#   \/____/\/___/\ \/_/\/_/\/_/\/____/
 #               \ \_\
 #                \/_/
 #
