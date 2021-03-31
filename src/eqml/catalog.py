@@ -18,7 +18,7 @@ from enum import Enum
 import logging
 import math
 from pathlib import Path
-from typing import Any, Callable, Dict, List, Optional, Tuple, Union
+from typing import Any, Callable, List, Optional, Tuple, Union
 
 from autologging import logged, traced
 from codetiming import Timer
@@ -28,7 +28,6 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 import plotly.io as pio
-from plotly.subplots import make_subplots
 from scipy.optimize import curve_fit
 from shapely.geometry.linestring import LineString
 from sklearn.metrics import r2_score, mean_squared_error
@@ -651,18 +650,3 @@ class Catalog:
         x = p1[0] + u * dx
         y = p1[1] + u * dy
         return haversine(p, (x, y))
-
-    def haversine(self, latitude: float, longitude: float) -> np.ndarray:
-        earth_radius = 6371.0088  # mean earth radius (https://en.wikipedia.org/wiki/Earth_radius#Mean_radius)
-        lat1, lng1 = map(list, zip(*self.faults["centroid"].values))
-        lat1 = np.expand_dims(lat1, axis=0)
-        lng1 = np.expand_dims(lng1, axis=0)
-        lat2, lng2 = np.expand_dims([latitude], axis=1), np.expand_dims([longitude], axis=1)
-        lat1 = np.radians(lat1)
-        lng1 = np.radians(lng1)
-        lat2 = np.radians(lat2)
-        lng2 = np.radians(lng2)
-        lat = lat2 - lat1
-        lng = lng2 - lng1
-        d = (np.sin(lat * 0.5) ** 2 + np.cos(lat1) * np.cos(lat2) * np.sin(lng * 0.5) ** 2)
-        return (2 * earth_radius * np.arcsin(np.sqrt(d)))[0]
