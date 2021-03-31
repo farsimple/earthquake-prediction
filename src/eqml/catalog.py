@@ -254,22 +254,27 @@ class Catalog:
 
     def plot(
         self, data: pd.DataFrame, fits: Union[pd.DataFrame, List[pd.DataFrame]] = None,
-        legend1: str = "data", legend2: Union[str, List[str]] = "fit"
+        title: str = "", legend1: str = "data", legend2: Union[str, List[str]] = "fit"
     ) -> go.Figure:
         if fits is None:
-            return self._plot_data(data, legend1)
+            figure = self._plot_data(data, legend1)
         else:
             if isinstance(fits, list):
-                return self._plot_data_and_fits(data, fits, legend1, legend2)
+                figure = self._plot_data_and_fits(data, fits, legend1, legend2)
             else:
-                return self._plot_data_and_fit(data, fits, legend1, legend2)
+                figure = self._plot_data_and_fit(data, fits, legend1, legend2)
+        figure.update_xaxes(title_text="Distance to Closest Fault (km)")
+        figure.update_yaxes(title_text="Probability of Strong Earthquake")
+        figure.update_layout(
+            title=dict(text=title, xanchor="left", yanchor="top"),
+            legend=dict(xanchor="right", yanchor="top")
+        )
+        figure.show()
+        return figure
 
     def _plot_data(self, data: pd.DataFrame, legend1: str) -> go.Figure:
         figure = go.Figure()
         figure.add_trace(go.Scatter(x=data["distance"], y=data["probability"], mode="markers", name=legend1))
-        figure.update_xaxes(title_text="Distance to Closest Fault (km)")
-        figure.update_yaxes(title_text="Probability (M>=6)")
-        figure.show()
         return figure
 
     def _plot_data_and_fit(
@@ -278,9 +283,6 @@ class Catalog:
         figure = go.Figure()
         figure.add_trace(go.Scatter(x=data["distance"], y=data["probability"], mode="markers", name=legend1))
         figure.add_trace(go.Scatter(x=fit["distance"], y=fit["fit"], mode="lines", name=legend2))
-        figure.update_xaxes(title_text="Distance to Closest Fault (km)")
-        figure.update_yaxes(title_text="Probability (M>=6)")
-        figure.show()
         return figure
 
     def _plot_data_and_fits(
@@ -292,15 +294,12 @@ class Catalog:
         figure.add_trace(go.Scatter(x=fits[1]["distance"], y=fits[1]["fit"], mode="lines", name=legend2[1]))
         figure.add_trace(go.Scatter(x=fits[2]["distance"], y=fits[2]["fit"], mode="lines", name=legend2[2]))
         figure.add_trace(go.Scatter(x=fits[3]["distance"], y=fits[3]["fit"], mode="lines", name=legend2[3]))
-        figure.update_xaxes(title_text="Distance to Closest Fault (km)")
-        figure.update_yaxes(title_text="Probability (M>=6)")
-        figure.show()
         return figure
 
     def compute_error(self, data: pd.DataFrame, fit: pd.DataFrame) -> Tuple[float, float]:
         r2 = r2_score(data["probability"], fit["fit"])
-        rmse = mean_squared_error(data["probability"], fit["fit"])
-        return r2, rmse
+        mse = mean_squared_error(data["probability"], fit["fit"])
+        return r2, mse
 
     def compute_probabilities(self, data: pd.DataFrame = None) -> pd.DataFrame:
         if data is None:
